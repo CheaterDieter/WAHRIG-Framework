@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--ArborText, Inc., 1988-2002, v.4002-->
+<syno>
+   <maju majuskel="A"/>
+   <eintrag>
+      <stw typ="unspez" id="a1">à</stw>
+      <wortart typ="rest">
+         <bedeutung typ="spz">
+            <polysem>
+               <syn>zu, je, pro, per</syn>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a2">aalen, sich</stw>
+      <wortart typ="rest">
+         <bedeutung typ="spz">
+            <polysem>
+               <stil>ugs. für</stil>
+               <syn>sich sonnen, sich rekeln, sich räkeln, sich behaglich ausstrecken, sich dehnen, in der Sonne liegen</syn>
+               <subpolysem>
+                  <stil>ugs.</stil>
+                  <syn>alle viere von sich strecken</syn>
+               </subpolysem>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a3">aalglatt</stw>
+      <wortart typ="rest">
+         <bedeutung typ="spz">
+            <polysem>
+               <syn>schmierig, schlüpfrig, glitschig, schleimig, schlangenhaft, undurchschaubar</syn>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a4">Aas</stw>
+      <wortart typ="n">
+         <bedeutung typ="pollist">
+            <polysem>
+               <syn>Kadaver, Tierleiche</syn>
+               <subpolysem>
+                  <sachg>Jägerspr.</sachg>
+                  <syn>Luder</syn>
+               </subpolysem>
+            </polysem>
+            <polysem>
+               <syn>Scheusal, Bestie, Unmensch, Schurke, Unhold, Ekel, Lump, Ungetüm, Monstrum</syn>
+               <subpolysem>
+                  <stil>ugs.</stil>
+                  <syn>Biest, Kanaille, Miststück, Hexe, Luder</syn>
+               </subpolysem>
+               <subpolysem>
+                  <stil>derb</stil>
+                  <syn>Schweinekerl, Dreckskerl, Schweinehund, Dreckstück, Vieh</syn>
+               </subpolysem>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a5">abändern</stw>
+      <wortart typ="rest">
+         <bedeutung typ="spz">
+            <polysem>
+               <syn>ändern, umarbeiten, umschreiben, umgestalten</syn>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a6">abarbeiten, sich</stw>
+      <wortart typ="rest">
+         <bedeutung typ="spz">
+            <polysem>
+               <syn>sich mühen, sich anstrengen, sich etwas<lexem typ="slash-wort"> abverlangen, sich </lexem>zu viel abverlangen, nichts unversucht lassen, sich plagen, sich quälen, sich bemühen, sich abmühen</syn>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a7">Abart</stw>
+      <wortart typ="n">
+         <bedeutung typ="spz">
+            <polysem>
+               <syn>Variante, Spielart, Eigenart, Sonderart, Ausnahme, Abweichung, Besonderheit, Version</syn>
+               <subpolysem>
+                  <sachg>Biol.</sachg>
+                  <syn>Varietät</syn>
+               </subpolysem>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <box spalten="2">
+      <box-stw id="a10070">abartig: Die Abweichung von der Norm</box-stw>
+      <box-inhalt>Das Adjektiv <box-meta>abartig</box-meta> wird verwendet, wenn eine Abweichung von dem angezeigt werden soll, was gemeinhin als Normalität empfunden wird. Dies gilt besonders im Zusammenhang mit sexuellen Praktiken oder Neigungen. In ähnlicher Weise werden auch Reaktionen oder Verhaltensweisen als <box-meta>abartig</box-meta> bezeichnet.<br/>Die Beschreibung von Personen oder sexuellen Vorlieben als <box-meta>abartig</box-meta> ist immer wieder kritisiert worden, da Normalität keine naturgegebene Größe ist, sondern gesellschaftlich hergestellt wird und wandelbar ist. Die Zuschreibung <box-meta>abartig</box-meta> bedeutet sowohl eine Ausgrenzung als auch eine Abwertung.<br/>Umgangssprachlich kann <box-meta>abartig</box-meta> beschreiben, dass man etwas für <box-meta>unangemessen</box-meta> oder <box-meta>unangebracht</box-meta> hält. Das ist z. B. der Fall, wenn sich jemand über eine <box-meta>abartige Farbzusammenstellung</box-meta> oder <box-meta>abartig hohe Energiepreise</box-meta> beschwert.</box-inhalt>
+   </box>
+   <eintrag>
+      <stw typ="unspez" id="a8">abartig</stw>
+      <wortart typ="rest">
+         <bedeutung typ="spz">
+            <polysem>
+               <syn>anomal, abnorm, abweichend, normwidrig, regelwidrig, unangemessen, unangebracht, pervers, anormal, fremdartig, anders, unüblich, atypisch, absonderlich, unnormal, widernatürlich, unnatürlich, abseitig, abwegig</syn>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="true"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a3000">abasten, sich</stw>
+      <wortart typ="rest">
+         <bedeutung typ="spz">
+            <polysem>
+               <stil>ugs. für</stil>
+               <syn>sich abplagen, sich anstrengen, sich abmühen, sich abschleppen, sich schinden, sich abkämpfen, kämpfen</syn>
+               <subpolysem>
+                  <stil>ugs.</stil>
+                  <syn>sich placken</syn>
+               </subpolysem>
+               <subpolysem>
+                  <stil>geh.</stil>
+                  <syn>sich mühen</syn>
+               </subpolysem>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a9">Abbau</stw>
+      <wortart typ="n">
+         <bedeutung typ="pollist">
+            <polysem>
+               <syn>Gewinnung, Förderung</syn>
+            </polysem>
+            <polysem>
+               <syn>Demontage, Abbruch, Zerlegung, Auflösung, Abtragung, Demontierung, Abriss</syn>
+            </polysem>
+            <polysem>
+               <idm idref="k1045" typ="eigenständig">Kürzung</idm>
+            </polysem>
+            <polysem>
+               <syn>Rückgang, Rückschritt, Abnahme, Nachlassen, Schwund, Verringerung, Dezimierung, Reduktion</syn>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a3001">abbaubar</stw>
+      <wortart typ="rest">
+         <bedeutung typ="spz">
+            <polysem>
+               <syn>auflösbar, vergänglich, verweslich, zersetzbar, zersetzlich, kompostierbar</syn>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a10">abbauen</stw>
+      <wortart typ="rest">
+         <bedeutung typ="pollist">
+            <polysem>
+               <syn>abtragen, abbrechen, demontieren, abmontieren, auseinandernehmen, zerlegen, entfernen, beseitigen, wegnehmen</syn>
+               <subpolysem>
+                  <stil>ugs.</stil>
+                  <syn>abmachen</syn>
+               </subpolysem>
+            </polysem>
+            <polysem>
+               <idm idref="v600" typ="eigenständig">vermindern</idm>
+            </polysem>
+            <polysem>
+               <syn>fördern<bsp-hinw>Kohle</bsp-hinw>, gewinnen, ausbeuten</syn>
+            </polysem>
+            <polysem>
+               <syn>nachlassen, ermatten, kraftlos werden, verblühen, absteigen, im Abstieg begriffen sein, zurückfallen, nicht Schritt halten, sich verschlechtern, sich verschlimmern</syn>
+               <subpolysem>
+                  <stil>ugs.</stil>
+                  <syn>abschlaffen, schwächeln</syn>
+               </subpolysem>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="verweis" id="a11">abbekommen</stw>
+      <wortart typ="rest">
+         <bedeutung typ="spz">
+            <polysem>
+               <idm idref="b422" typ="eigenständig">bekommen</idm>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a12">abberufen</stw>
+      <wortart typ="rest">
+         <bedeutung typ="spz">
+            <polysem>
+               <syn>zurückbeordern, zurückholen, zurückziehen, zurückrufen, zurückberufen</syn>
+               <idm idref="e801" typ="angehängt">entlassen</idm>
+               <subpolysem>
+                  <stil>ugs.</stil>
+                  <syn>zurückpfeifen</syn>
+               </subpolysem>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="verweis" id="a13">abberufen werden</stw>
+      <wortart typ="rest">
+         <bedeutung typ="spz">
+            <polysem>
+               <idm idref="s1696" typ="eigenständig">sterben</idm>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a14">abbestellen</stw>
+      <wortart typ="rest">
+         <bedeutung typ="spz">
+            <polysem>
+               <syn>rückgängig machen, annullieren, zurückziehen, abrücken von, absagen, abmelden, zurücktreten von, widerrufen, kündigen</syn>
+               <subpolysem>
+                  <stil>ugs.</stil>
+                  <syn>abblasen</syn>
+               </subpolysem>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="verweis" id="a15">abbezahlen</stw>
+      <wortart typ="rest">
+         <bedeutung typ="spz">
+            <polysem>
+               <idm idref="a521" typ="eigenständig">abzahlen</idm>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a16">abbiegen</stw>
+      <wortart typ="rest">
+         <bedeutung typ="pollist">
+            <polysem>
+               <syn>abdrehen, abzweigen, abgehen, abschwenken, einschwenken, um die Ecke biegen<lexem typ="slash-wort">, um die Ecke </lexem>schwenken, einbiegen, einlenken, einen Bogen machen, die Richtung<lexem typ="slash-wort"> ändern, </lexem>den Kurs ändern</syn>
+            </polysem>
+            <polysem>
+               <syn>abhalten, abwehren, verhindern, vereiteln, abwenden, abweisen, aufhalten</syn>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a17">Abbiegung</stw>
+      <wortart typ="n">
+         <bedeutung typ="spz">
+            <polysem>
+               <syn>Biegung, Bogen, Kurve, Kehre, Wende, Krümmung, Knick, Knie, Haken, Abknickung</syn>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a18">Abbild</stw>
+      <wortart typ="n">
+         <bedeutung typ="spz">
+            <polysem>
+               <syn>Ebenbild, Spiegelbild, Abbildung, Wiedergabe, Spiegelung, Verdoppelung, Doublette</syn>
+               <subpolysem>
+                  <stil>ugs., abwertend</stil>
+                  <syn>Abklatsch</syn>
+               </subpolysem>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a19">abbilden</stw>
+      <wortart typ="rest">
+         <bedeutung typ="spz">
+            <polysem>
+               <syn>wiedergeben, zeigen, darstellen, nachformen, abformen, kopieren, abmalen, nachzeichnen, nachbilden, fotografieren, illustrieren, einen Abguss machen, abgießen, reproduzieren, nachgestalten, nachschaffen, nachdrucken, vervielfältigen</syn>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a20">Abbildung</stw>
+      <wortart typ="n">
+         <bedeutung typ="pollist">
+            <polysem>
+               <syn>Bild, Darstellung, Lichtbild, Foto, Fotografie</syn>
+            </polysem>
+            <polysem>
+               <idm idref="a18" typ="eigenständig">Abbild</idm>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a21">abbinden</stw>
+      <wortart typ="rest">
+         <bedeutung typ="pollist">
+            <polysem>
+               <syn>Blutungen stillen, abschnüren, abklemmen, abpressen</syn>
+            </polysem>
+            <polysem>
+               <syn>losbinden<bsp-hinw>Schürze</bsp-hinw>, abnehmen, ausziehen, aufmachen, abstreifen</syn>
+            </polysem>
+            <polysem>
+               <syn>eindicken, binden</syn>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="verweis" id="a23">abblasen</stw>
+      <wortart typ="rest">
+         <bedeutung typ="spz">
+            <polysem>
+               <idm idref="a323" typ="eigenständig">absagen</idm>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a24">abblättern</stw>
+      <wortart typ="rest">
+         <bedeutung typ="spz">
+            <polysem>
+               <syn>bröckeln, abbröckeln, sich lösen, sich ablösen, sich loslösen, abfallen, abgehen, absplittern, abschälen, abschuppen, abspringen, abplatzen</syn>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a25">abblenden</stw>
+      <wortart typ="rest">
+         <bedeutung typ="spz">
+            <polysem>
+               <syn>abdunkeln, verdunkeln, abschirmen, die Blende klein stellen</syn>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a26">abblitzen</stw>
+      <wortart typ="rest">
+         <bedeutung typ="pollist">
+            <polysem>
+               <stil>ugs. für</stil>
+               <syn>abgewiesen<lexem typ="slash-wort"> werden, </lexem>abgelehnt<lexem typ="slash-wort"> werden, </lexem>zurückgewiesen<lexem typ="slash-wort"> werden, </lexem>abgefertigt<lexem typ="slash-wort"> werden, </lexem>versetzt werden, einen Korb bekommen, eine Niederlage erleiden, Misserfolg haben, eine Abfuhr erhalten</syn>
+               <subpolysem>
+                  <stil>ugs.</stil>
+                  <syn>abgewimmelt werden, auflaufen, eine Schlappe erleiden, nicht ankommen</syn>
+               </subpolysem>
+            </polysem>
+            <polysem>
+               <bsp-wort typ="unspez" id="a27">jmdn. abblitzen lassen</bsp-wort>
+               <syn>jmdn. abservieren<lexem typ="slash-wort">, jmdn. </lexem>abspeisen<lexem typ="slash-wort">, jmdn. </lexem>ablehnen<lexem typ="slash-wort">, jmdn. </lexem>abweisen<lexem typ="slash-wort">, jmdn. </lexem>abfertigen, jmdm. die kalte Schulter zeigen, eine Abfuhr erteilen, einen Korb geben, nicht zulassen, den Laufpass geben</syn>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a28">abblocken</stw>
+      <wortart typ="rest">
+         <bedeutung typ="spz">
+            <polysem>
+               <syn>hindern, behindern, hemmen, einschränken, abwehren, abschneiden, abhalten, blockieren, verhindern, versperren, unterbinden, nicht zulassen</syn>
+               <subpolysem>
+                  <stil>ugs.</stil>
+                  <syn>bremsen</syn>
+               </subpolysem>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a29">abbrausen</stw>
+      <wortart typ="rest">
+         <bedeutung typ="pollist">
+            <polysem>
+               <syn>duschen, abduschen, unter die Dusche gehen, eine Dusche nehmen</syn>
+            </polysem>
+            <polysem>
+               <syn>fahren, abfahren, losfahren, wegfahren, verschwinden</syn>
+               <subpolysem>
+                  <stil>ugs.</stil>
+                  <syn>losbrausen, abzischen</syn>
+               </subpolysem>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a30">abbrausen, sich</stw>
+      <wortart typ="rest">
+         <bedeutung typ="spz">
+            <polysem>
+               <syn>unter die Dusche gehen, sich duschen, sich abduschen, eine Dusche nehmen</syn>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a31">abbrechen</stw>
+      <wortart typ="rest">
+         <bedeutung typ="pollist">
+            <polysem>
+               <syn>zerstören, niederreißen, abreißen, einreißen, abtragen, abbauen, abtrennen, beseitigen, entfernen</syn>
+               <subpolysem>
+                  <stil>ugs.</stil>
+                  <syn>wegreißen</syn>
+               </subpolysem>
+            </polysem>
+            <polysem>
+               <syn>in Stücke brechen, entzweigehen, durchbrechen, wegbrechen, abknicken, abgehen, abfallen, splittern</syn>
+            </polysem>
+            <polysem>
+               <syn>zerstückeln, zerteilen, zerlegen</syn>
+            </polysem>
+            <polysem>
+               <syn>Schluss machen, die Beziehung auflösen, brechen mit, sich lösen, den Rücken kehren, sich abwenden von, die Verbindung lösen</syn>
+            </polysem>
+            <polysem>
+               <idm idref="a1453" typ="eigenständig">aufgeben</idm>
+            </polysem>
+            <polysem>
+               <syn>pflücken, abreißen, abknicken, abpflücken, abzupfen, ernten, lesen</syn>
+               <subpolysem>
+                  <stil>ugs.</stil>
+                  <syn>rupfen, abrupfen</syn>
+               </subpolysem>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a32">abbremsen</stw>
+      <wortart typ="rest">
+         <bedeutung typ="pollist">
+            <polysem>
+               <syn>bremsen, halten, anhalten, Halt machen, stoppen, abstoppen, auf die Bremse treten</syn>
+            </polysem>
+            <polysem>
+               <syn>hemmen, aufhalten, behindern, blockieren, beeinträchtigen, einschränken, lähmen, bremsen, zügeln, entgegenwirken</syn>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a33">abbrennen</stw>
+      <wortart typ="rest">
+         <bedeutung typ="spz">
+            <polysem>
+               <syn>niederbrennen, Feuer legen, in Flammen setzen<lexem typ="slash-wort">, in Flammen </lexem>aufgehen lassen, in Schutt und Asche legen, einen Brand legen</syn>
+               <subpolysem>
+                  <stil>ugs.</stil>
+                  <syn>abfackeln</syn>
+               </subpolysem>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a34">abbringen</stw>
+      <wortart typ="rest">
+         <bedeutung typ="pollist">
+            <polysem>
+               <syn>ausreden, verleiden, abraten, abhalten, wegführen von</syn>
+            </polysem>
+            <polysem>
+               <idm idref="a246" typ="eigenständig">ablenken</idm>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="verweis" id="a35">abbröckeln</stw>
+      <wortart typ="rest">
+         <bedeutung typ="spz">
+            <polysem>
+               <idm idref="a24" typ="eigenständig">abblättern</idm>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a36">Abbruch</stw>
+      <wortart typ="n">
+         <bedeutung typ="pollist">
+            <polysem>
+               <syn>Auflösung, Abbau, Demontage, Zerlegung, Abriss, Niederreißung, Zerstörung, Demontierung, Abtragung</syn>
+            </polysem>
+            <polysem>
+               <syn>Einstellung, Aufgabe, Beendigung, Aufhebung, Beseitigung, Außerkraftsetzung, Annullierung, Abschaffung, Aufkündigung, Auflösung</syn>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a37">abbrummen</stw>
+      <wortart typ="rest">
+         <bedeutung typ="spz">
+            <polysem>
+               <stil>ugs. für</stil>
+               <syn>einsitzen</syn>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a3002">abbuchen</stw>
+      <wortart typ="rest">
+         <bedeutung typ="spz">
+            <polysem>
+               <syn>abziehen, abheben, wegnehmen, herunternehmen</syn>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a38">abbürsten</stw>
+      <wortart typ="rest">
+         <bedeutung typ="pollist">
+            <polysem>
+               <syn>bürsten, säubern, putzen, reinigen, striegeln<bsp-hinw>Pferd</bsp-hinw>, wienern, wichsen, schrubben</syn>
+            </polysem>
+            <polysem>
+               <idm idref="a89" typ="eigenständig">abfertigen</idm>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a39">abbüßen</stw>
+      <wortart typ="rest">
+         <bedeutung typ="pollist">
+            <polysem>
+               <syn>büßen, verbüßen, sühnen, geradestehen für, Buße tun</syn>
+            </polysem>
+            <polysem>
+               <bsp-wort typ="unspez" id="a40">eine Strafe abbüßen</bsp-wort>
+               <syn>einsitzen, in Haft<lexem typ="slash-wort"> sitzen, </lexem>im Gefängnis<lexem typ="slash-wort"> sitzen, </lexem>hinter Schloss und Riegel<lexem typ="slash-wort"> sitzen, </lexem>hinter Gittern<lexem typ="slash-wort"> sitzen, </lexem>im Arrest sitzen, inhaftiert<lexem typ="slash-wort"> sein, </lexem>gefangen<lexem typ="slash-wort"> sein, </lexem>eingesperrt sein</syn>
+               <subpolysem>
+                  <stil>ugs.</stil>
+                  <syn>abbrummen</syn>
+               </subpolysem>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a42">abchecken</stw>
+      <wortart typ="rest">
+         <bedeutung typ="spz">
+            <polysem>
+               <syn>prüfen, untersuchen, testen, kontrollieren, begutachten, inspizieren, nachsehen, sich überzeugen wollen, durchgehen, sich vergewissern</syn>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a41">Abc–Schütze</stw>
+      <wortart typ="n">
+         <bedeutung typ="spz">
+            <polysem>
+               <syn>Schulanfänger</syn>
+               <subpolysem>
+                  <stil>regional, schweiz.</stil>
+                  <syn>Erstklässler</syn>
+               </subpolysem>
+               <subpolysem>
+                  <stil>österr.</stil>
+                  <syn>Taferlklassler</syn>
+               </subpolysem>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a3006">abdämmen</stw>
+      <wortart typ="rest">
+         <bedeutung typ="spz">
+            <polysem>
+               <syn>dämmen, eindämmen<bsp-hinw>Wassermassen</bsp-hinw>, abdichten, mildern, abmildern, dämpfen, abschotten, abdämpfen, abschwächen</syn>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a43">abdampfen</stw>
+      <wortart typ="rest">
+         <bedeutung typ="spz">
+            <polysem>
+               <syn>abfahren, wegfahren, verreisen, sich auf die Reise begeben<lexem typ="slash-wort">, sich auf die Reise </lexem>machen, auf Reise gehen, aufbrechen, starten, die Reise antreten, sich einschiffen, auslaufen<bsp-hinw>Schiff</bsp-hinw>, den Hafen verlassen, abfliegen, weggehen</syn>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a44">abdämpfen</stw>
+      <wortart typ="rest">
+         <bedeutung typ="spz">
+            <polysem>
+               <syn>mildern, abmildern, lindern, abschwächen, dämpfen, dimmen, abfedern</syn>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="verweis" id="a45">abdanken</stw>
+      <wortart typ="rest">
+         <bedeutung typ="spz">
+            <polysem>
+               <idm idref="k989" typ="eigenständig">kündigen</idm>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a46">abdecken</stw>
+      <wortart typ="rest">
+         <bedeutung typ="pollist">
+            <polysem>
+               <syn>zudecken, verdecken, bedecken, verhängen</syn>
+            </polysem>
+            <polysem>
+               <syn>schützen, aufpassen auf, abschirmen</syn>
+            </polysem>
+            <polysem>
+               <idm idref="a300" typ="eigenständig">abräumen</idm>
+            </polysem>
+            <polysem>
+               <syn>tilgen, abzahlen, abtragen, abgelten, abbezahlen, begleichen, eine Schuld aufheben<lexem typ="slash-wort">, eine Schuld </lexem>bereinigen</syn>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a3004">Abdeckung</stw>
+      <wortart typ="n">
+         <bedeutung typ="pollist">
+            <polysem>
+               <syn>Decke, Bedeckung, Schutz, Deckel, Hülle</syn>
+            </polysem>
+            <polysem>
+               <syn>Absicherung, Tilgung, Ausgleich, Sicherheit<lexem typ="aus-erw">, Sicherheit</lexem>
+                  <lexem typ="klamm-erw">en</lexem>
+               </syn>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a47">abdichten</stw>
+      <wortart typ="rest">
+         <bedeutung typ="spz">
+            <polysem>
+               <syn>zustopfen, verstopfen, isolieren, verfugen, abdämmen, dichten, schließen, ausfüllen</syn>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a48">abdienen</stw>
+      <wortart typ="rest">
+         <bedeutung typ="spz">
+            <polysem>
+               <syn>hinter sich bringen, ausführen, durchführen, bestehen, absolvieren, schaffen, ablegen, vollbringen</syn>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a49">abdrängen</stw>
+      <wortart typ="rest">
+         <bedeutung typ="spz">
+            <polysem>
+               <syn>verdrängen, wegschieben, wegdrängen, zurückdrängen, beiseiteschieben</syn>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a50">abdrehen</stw>
+      <wortart typ="rest">
+         <bedeutung typ="pollist">
+            <polysem>
+               <syn>abstellen, ausstellen, abschalten, ausschalten, stoppen, außer Betrieb setzen, ausdrehen</syn>
+            </polysem>
+            <polysem>
+               <syn>Filmaufnahmen beenden, einen Film fertigstellen</syn>
+            </polysem>
+            <polysem>
+               <syn>einen anderen Kurs nehmen, eine andere Richtung einschlagen, wenden, drehen, schwenken</syn>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a3005">abdriften</stw>
+      <wortart typ="rest">
+         <bedeutung typ="pollist">
+            <polysem>
+               <syn>abschweifen, vom Kurs<lexem typ="slash-wort"> abweichen, vom </lexem>Thema abweichen, vom Weg abkommen, abgeleiten, weggetrieben<lexem typ="slash-wort"> werden, </lexem>fortgetrieben werden</syn>
+            </polysem>
+            <polysem>
+               <syn>das Bewusstsein verlieren, abgelenkt werden</syn>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+   <eintrag>
+      <stw typ="unspez" id="a51">abdrosseln</stw>
+      <wortart typ="rest">
+         <bedeutung typ="pollist">
+            <polysem>
+               <syn>hemmen, aufhalten, behindern, blockieren, beeinträchtigen, einschränken, lähmen, bremsen, zügeln, entgegenwirken</syn>
+            </polysem>
+            <polysem>
+               <idm idref="d504" typ="eigenständig">drosseln</idm>
+            </polysem>
+         </bedeutung>
+      </wortart>
+      <info typ="false"/>
+   </eintrag>
+</syno>
