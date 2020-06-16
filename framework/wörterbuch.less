@@ -1,0 +1,248 @@
+.grundschrift() {
+    .schriftgroesse();
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.schriftgroesse() {
+    font-size:12pt;
+}
+
+.kursiv() {
+    font-style: italic;
+}
+
+.ueberschrift() {
+    font-weight: 700;
+    font-size: 20px;
+}
+
+@namespace oxy "http://www.oxygenxml.com/extensions/author";
+oxy|comment {
+
+    display:none !important;
+
+}
+
+maju[majuskel="A"]:after {
+    content:"\A""A";
+    font-weight: bold;
+    font-size: 40px;
+}
+/* Weitere Majuskeln manuell ergänzen */
+
+box {
+    background-color: #E0E0FF; 
+    display : block;
+}
+box:before {
+        content:"\A"; /* Zeilenumbruch einfügen */
+}
+
+box-inhalt {
+    .grundschrift()
+}
+
+box-meta {
+    .kursiv()
+}
+
+box-stw {
+    .grundschrift();
+    font-weight: bold;
+}
+
+box-stw:after {
+        content:"\A"; /* Zeilenumbruch einfügen */
+}
+
+br:after {
+    content:"\A";
+}
+
+bsp-hinw {
+    .grundschrift()
+}
+bsp-hinw:before {
+    content:" (";
+}
+bsp-hinw:after {
+    content:")";
+}
+
+bsp-wort {
+    font-weight: bold;
+}
+bsp-wort:before {
+    content:" ";
+}
+
+bsp-wort:after {
+    content:" ";
+}
+
+eintrag {
+    display : block;
+}
+
+eintrag:before {
+    content:"\A";
+}
+
+genus[genustyp="f"] {
+    content:"f.: "; .kursiv()
+}
+
+genus[genustyp="m"] {
+    content:"m.: "; .kursiv()
+}
+
+genus[genustyp="n"] {
+    content:"n.: "; .kursiv()
+}
+
+genus[genustyp="pl"] {
+    content:"Pl.: "; .kursiv()
+}
+
+idm {
+   .grundschrift(); 
+}
+idm:before {
+    content:" "
+}
+
+idm[typ="eigenständig"] {
+   .grundschrift(); 
+}
+idm[typ="eigenständig"]:before {
+    content:" "
+}
+
+idm[typ="angehängt"] {
+   .grundschrift(); 
+}
+idm[typ="angehängt"]:before {
+    content:",  "
+}
+
+info[typ="true"] {
+    font-weight: bold;
+    color: blue;
+}
+info[typ="true"]:before {
+    content:" ⓘ"
+}
+
+info:not(typ) {
+    font-weight: bold;
+    color: blue;
+}
+info:not(typ):before {
+    content:" ⓘ"
+}
+
+info[typ="false"] {
+    display:none
+}
+
+lexem[typ="aus-erw"] { display: none }
+lexem[typ="aus-nachs"] { display: none }
+lexem[typ="aus-wort"] { display: none }
+lexem[typ="klamm-erw"] { .grundschrift() }
+lexem[typ="klamm-erw"]:before { content:"(" }
+lexem[typ="klamm-erw"]:after { content:")" }
+lexem[typ="klamm-vors"] { .grundschrift() }
+lexem[typ="klamm-vors"]:before { content:"(" }
+lexem[typ="klamm-vors"]:after { content:")" }
+
+lexem[typ="slash-wort"] { font-size: 0 } /* Inhalt durch "/" ersetzen */
+lexem[typ="slash-wort"]:after { content:"/"; .schriftgroesse();}
+
+maju {
+}
+
+pollist {
+    counter-reset: zaehler; /* Zählervariable zurücksetzen */
+}
+
+bedeutung[typ=pollist]>polysem:before {
+    counter-increment: zaehler;
+    content:"\A"  counter(zaehler) ". ";
+    font-weight: bold;
+    margin-left:2em;
+}
+
+pollist>polysem:before {
+    counter-increment: zaehler;
+    content:"\A"  counter(zaehler) ". ";
+    font-weight: bold;
+    margin-left:2em;
+}
+
+s-a {
+    .grundschrift();
+}
+
+s-a:before {
+    content:",  "
+}
+
+sachg {
+    font-style: italic;
+}
+sachg:after {
+    content:": ";
+}
+
+spz:before {
+    content:" ";
+    margin-left:2em;
+}
+
+stil {
+    font-style: italic;
+}
+
+stil:after {
+    content:": ";
+}
+
+stw {
+    font-weight: bold;
+}
+
+subpolysem:before {
+    content:"; ";
+}
+
+subsachg { /* Kommt  nicht vor  */
+    font-style: italic;
+}
+
+subsachg:after {
+    content:": ";
+}
+
+syn {
+    .grundschrift();
+}
+
+syno {
+    .grundschrift()
+}
+
+/* Elemente für aktualisierte XML */
+bedeutung[typ="pollist"] { counter-reset: zaehler; /* Zählervariable zurücksetzen */ }
+
+bedeutung:before {
+  content: "";
+}
+
+stw:before {
+  content: "";
+}
+
+bedeutung[typ=spz]:before {
+    content:" ";
+    margin-left:2em;
+}

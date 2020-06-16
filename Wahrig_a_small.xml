@@ -1,0 +1,2011 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--ArborText, Inc., 1988-2002, v.4002-->
+<!DOCTYPE syno SYSTEM "framework/syno_neu.dtd">
+<?xml-stylesheet type="text/xsl" href="convert.xsl"?>
+<?xml-stylesheet type="text/css" href="framework/w%C3%B6rterbuch.less"?>
+<syno>
+    <maju majuskel="A"/>
+    <eintrag>
+        <stw typ="unspez" id="a1">à</stw>
+        <rest>
+            <spz>
+                <syn>zu, je, pro, per</syn>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a2">aalen, sich</stw>
+        <rest>
+            <spz>
+                <stil>ugs. für</stil>
+                <syn>sich sonnen, sich rekeln, sich räkeln, sich behaglich ausstrecken, sich dehnen,
+                    in der Sonne liegen</syn>
+                <subpollist>
+                    <subpolysem>
+                        <stil>ugs.</stil>
+                        <syn>alle viere von sich strecken</syn>
+                    </subpolysem>
+                </subpollist>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a3">aalglatt</stw>
+        <rest>
+            <spz>
+                <syn>schmierig, schlüpfrig, glitschig, schleimig, schlangenhaft,
+                    undurchschaubar</syn>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a4">Aas</stw>
+        <n>
+            <pollist>
+                <polysem>
+                    <syn>Kadaver, Tierleiche</syn>
+                    <subpollist>
+                        <subpolysem>
+                            <sachg>Jägerspr.</sachg>
+                            <syn>Luder</syn>
+                        </subpolysem>
+                    </subpollist>
+                </polysem>
+                <polysem>
+                    <syn>Scheusal, Bestie, Unmensch, Schurke, Unhold, Ekel, Lump, Ungetüm,
+                        Monstrum</syn>
+                    <subpollist>
+                        <subpolysem>
+                            <stil>ugs.</stil>
+                            <syn>Biest, Kanaille, Miststück, Hexe, Luder</syn>
+                        </subpolysem>
+                        <subpolysem>
+                            <stil>derb</stil>
+                            <syn>Schweinekerl, Dreckskerl, Schweinehund, Dreckstück, Vieh</syn>
+                        </subpolysem>
+                    </subpollist>
+                </polysem>
+            </pollist>
+        </n>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a5">abändern</stw>
+        <rest>
+            <spz>
+                <syn>ändern, umarbeiten, umschreiben, umgestalten</syn>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a6">abarbeiten, sich</stw>
+        <rest>
+            <spz>
+                <syn>sich mühen, sich anstrengen, sich etwas<lexem typ="slash-wort"> abverlangen,
+                        sich </lexem>zu viel abverlangen, nichts unversucht lassen, sich plagen,
+                    sich quälen, sich bemühen, sich abmühen</syn>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a7">Abart</stw>
+        <n>
+            <spz>
+                <syn>Variante, Spielart, Eigenart, Sonderart, Ausnahme, Abweichung, Besonderheit,
+                    Version</syn>
+                <subpollist>
+                    <subpolysem>
+                        <sachg>Biol.</sachg>
+                        <syn>Varietät</syn>
+                    </subpolysem>
+                </subpollist>
+            </spz>
+        </n>
+    </eintrag>
+    <box spalten="2">
+        <box-stw id="a10070">abartig: Die Abweichung von der Norm</box-stw>
+        <box-inhalt>Das Adjektiv <box-meta>abartig</box-meta> wird verwendet, wenn eine Abweichung
+            von dem angezeigt werden soll, was gemeinhin als Normalität empfunden wird. Dies gilt
+            besonders im Zusammenhang mit sexuellen Praktiken oder Neigungen. In ähnlicher Weise
+            werden auch Reaktionen oder Verhaltensweisen als <box-meta>abartig</box-meta>
+            bezeichnet.<br/>Die Beschreibung von Personen oder sexuellen Vorlieben als
+                <box-meta>abartig</box-meta> ist immer wieder kritisiert worden, da Normalität keine
+            naturgegebene Größe ist, sondern gesellschaftlich hergestellt wird und wandelbar ist.
+            Die Zuschreibung <box-meta>abartig</box-meta> bedeutet sowohl eine Ausgrenzung als auch
+            eine Abwertung.<br/>Umgangssprachlich kann <box-meta>abartig</box-meta> beschreiben,
+            dass man etwas für <box-meta>unangemessen</box-meta> oder
+                <box-meta>unangebracht</box-meta> hält. Das ist z. B. der Fall, wenn sich jemand
+            über eine <box-meta>abartige Farbzusammenstellung</box-meta> oder <box-meta>abartig hohe
+                Energiepreise</box-meta> beschwert.</box-inhalt>
+    </box>
+    <eintrag>
+        <stw typ="unspez" id="a8">abartig</stw>
+        <rest>
+            <spz>
+                <syn>anomal, abnorm, abweichend, normwidrig, regelwidrig, unangemessen,
+                    unangebracht, pervers, anormal, fremdartig, anders, unüblich, atypisch,
+                    absonderlich, unnormal, widernatürlich, unnatürlich, abseitig, abwegig</syn>
+            </spz>
+        </rest>
+        <info/>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a3000">abasten, sich</stw>
+        <rest>
+            <spz>
+                <stil>ugs. für</stil>
+                <syn>sich abplagen, sich anstrengen, sich abmühen, sich abschleppen, sich schinden,
+                    sich abkämpfen, kämpfen</syn>
+                <subpollist>
+                    <subpolysem>
+                        <stil>ugs.</stil>
+                        <syn>sich placken</syn>
+                    </subpolysem>
+                    <subpolysem>
+                        <stil>geh.</stil>
+                        <syn>sich mühen</syn>
+                    </subpolysem>
+                </subpollist>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a9">Abbau</stw>
+        <n>
+            <pollist>
+                <polysem>
+                    <syn>Gewinnung, Förderung</syn>
+                </polysem>
+                <polysem>
+                    <syn>Demontage, Abbruch, Zerlegung, Auflösung, Abtragung, Demontierung,
+                        Abriss</syn>
+                </polysem>
+                <polysem>
+                    <idm idref="k1045">Kürzung</idm>
+                </polysem>
+                <polysem>
+                    <syn>Rückgang, Rückschritt, Abnahme, Nachlassen, Schwund, Verringerung,
+                        Dezimierung, Reduktion</syn>
+                </polysem>
+            </pollist>
+        </n>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a3001">abbaubar</stw>
+        <rest>
+            <spz>
+                <syn>auflösbar, vergänglich, verweslich, zersetzbar, zersetzlich,
+                    kompostierbar</syn>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a10">abbauen</stw>
+        <rest>
+            <pollist>
+                <polysem>
+                    <syn>abtragen, abbrechen, demontieren, abmontieren, auseinandernehmen, zerlegen,
+                        entfernen, beseitigen, wegnehmen</syn>
+                    <subpollist>
+                        <subpolysem>
+                            <stil>ugs.</stil>
+                            <syn>abmachen</syn>
+                        </subpolysem>
+                    </subpollist>
+                </polysem>
+                <polysem>
+                    <idm idref="v600">vermindern</idm>
+                </polysem>
+                <polysem>
+                    <syn>fördern<bsp-hinw>Kohle</bsp-hinw>, gewinnen, ausbeuten</syn>
+                </polysem>
+                <polysem>
+                    <syn>nachlassen, ermatten, kraftlos werden, verblühen, absteigen, im Abstieg
+                        begriffen sein, zurückfallen, nicht Schritt halten, sich verschlechtern,
+                        sich verschlimmern</syn>
+                    <subpollist>
+                        <subpolysem>
+                            <stil>ugs.</stil>
+                            <syn>abschlaffen, schwächeln</syn>
+                        </subpolysem>
+                    </subpollist>
+                </polysem>
+            </pollist>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="verweis" id="a11">abbekommen</stw>
+        <rest>
+            <spz>
+                <idm idref="b422">bekommen</idm>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a12">abberufen</stw>
+        <rest>
+            <spz>
+                <syn>zurückbeordern, zurückholen, zurückziehen, zurückrufen, zurückberufen</syn>
+                <s-a idref="e801">entlassen</s-a>
+                <subpollist>
+                    <subpolysem>
+                        <stil>ugs.</stil>
+                        <syn>zurückpfeifen</syn>
+                    </subpolysem>
+                </subpollist>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="verweis" id="a13">abberufen werden</stw>
+        <rest>
+            <spz>
+                <idm idref="s1696">sterben</idm>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a14">abbestellen</stw>
+        <rest>
+            <spz>
+                <syn>rückgängig machen, annullieren, zurückziehen, abrücken von, absagen, abmelden,
+                    zurücktreten von, widerrufen, kündigen</syn>
+                <subpollist>
+                    <subpolysem>
+                        <stil>ugs.</stil>
+                        <syn>abblasen</syn>
+                    </subpolysem>
+                </subpollist>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="verweis" id="a15">abbezahlen</stw>
+        <rest>
+            <spz>
+                <idm idref="a521">abzahlen</idm>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a16">abbiegen</stw>
+        <rest>
+            <pollist>
+                <polysem>
+                    <syn>abdrehen, abzweigen, abgehen, abschwenken, einschwenken, um die Ecke
+                            biegen<lexem typ="slash-wort">, um die Ecke </lexem>schwenken,
+                        einbiegen, einlenken, einen Bogen machen, die Richtung<lexem
+                            typ="slash-wort"> ändern, </lexem>den Kurs ändern</syn>
+                </polysem>
+                <polysem>
+                    <syn>abhalten, abwehren, verhindern, vereiteln, abwenden, abweisen,
+                        aufhalten</syn>
+                </polysem>
+            </pollist>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a17">Abbiegung</stw>
+        <n>
+            <spz>
+                <syn>Biegung, Bogen, Kurve, Kehre, Wende, Krümmung, Knick, Knie, Haken,
+                    Abknickung</syn>
+            </spz>
+        </n>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a18">Abbild</stw>
+        <n>
+            <spz>
+                <syn>Ebenbild, Spiegelbild, Abbildung, Wiedergabe, Spiegelung, Verdoppelung,
+                    Doublette</syn>
+                <subpollist>
+                    <subpolysem>
+                        <stil>ugs., abwertend</stil>
+                        <syn>Abklatsch</syn>
+                    </subpolysem>
+                </subpollist>
+            </spz>
+        </n>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a19">abbilden</stw>
+        <rest>
+            <spz>
+                <syn>wiedergeben, zeigen, darstellen, nachformen, abformen, kopieren, abmalen,
+                    nachzeichnen, nachbilden, fotografieren, illustrieren, einen Abguss machen,
+                    abgießen, reproduzieren, nachgestalten, nachschaffen, nachdrucken,
+                    vervielfältigen</syn>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a20">Abbildung</stw>
+        <n>
+            <pollist>
+                <polysem>
+                    <syn>Bild, Darstellung, Lichtbild, Foto, Fotografie</syn>
+                </polysem>
+                <polysem>
+                    <idm idref="a18">Abbild</idm>
+                </polysem>
+            </pollist>
+        </n>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a21">abbinden</stw>
+        <rest>
+            <pollist>
+                <polysem>
+                    <syn>Blutungen stillen, abschnüren, abklemmen, abpressen</syn>
+                </polysem>
+                <polysem>
+                    <syn>losbinden<bsp-hinw>Schürze</bsp-hinw>, abnehmen, ausziehen, aufmachen,
+                        abstreifen</syn>
+                </polysem>
+                <polysem>
+                    <syn>eindicken, binden</syn>
+                </polysem>
+            </pollist>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="verweis" id="a23">abblasen</stw>
+        <rest>
+            <spz>
+                <idm idref="a323">absagen</idm>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a24">abblättern</stw>
+        <rest>
+            <spz>
+                <syn>bröckeln, abbröckeln, sich lösen, sich ablösen, sich loslösen, abfallen,
+                    abgehen, absplittern, abschälen, abschuppen, abspringen, abplatzen</syn>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a25">abblenden</stw>
+        <rest>
+            <spz>
+                <syn>abdunkeln, verdunkeln, abschirmen, die Blende klein stellen</syn>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a26">abblitzen</stw>
+        <rest>
+            <pollist>
+                <polysem>
+                    <stil>ugs. für</stil>
+                    <syn>abgewiesen<lexem typ="slash-wort"> werden, </lexem>abgelehnt<lexem
+                            typ="slash-wort"> werden, </lexem>zurückgewiesen<lexem typ="slash-wort">
+                            werden, </lexem>abgefertigt<lexem typ="slash-wort"> werden,
+                        </lexem>versetzt werden, einen Korb bekommen, eine Niederlage erleiden,
+                        Misserfolg haben, eine Abfuhr erhalten</syn>
+                    <subpollist>
+                        <subpolysem>
+                            <stil>ugs.</stil>
+                            <syn>abgewimmelt werden, auflaufen, eine Schlappe erleiden, nicht
+                                ankommen</syn>
+                        </subpolysem>
+                    </subpollist>
+                </polysem>
+                <polysem>
+                    <bsp-wort typ="unspez" id="a27">jmdn. abblitzen lassen</bsp-wort>
+                    <syn>jmdn. abservieren<lexem typ="slash-wort">, jmdn. </lexem>abspeisen<lexem
+                            typ="slash-wort">, jmdn. </lexem>ablehnen<lexem typ="slash-wort">, jmdn.
+                            </lexem>abweisen<lexem typ="slash-wort">, jmdn. </lexem>abfertigen,
+                        jmdm. die kalte Schulter zeigen, eine Abfuhr erteilen, einen Korb geben,
+                        nicht zulassen, den Laufpass geben</syn>
+                </polysem>
+            </pollist>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a28">abblocken</stw>
+        <rest>
+            <spz>
+                <syn>hindern, behindern, hemmen, einschränken, abwehren, abschneiden, abhalten,
+                    blockieren, verhindern, versperren, unterbinden, nicht zulassen</syn>
+                <subpollist>
+                    <subpolysem>
+                        <stil>ugs.</stil>
+                        <syn>bremsen</syn>
+                    </subpolysem>
+                </subpollist>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a29">abbrausen</stw>
+        <rest>
+            <pollist>
+                <polysem>
+                    <syn>duschen, abduschen, unter die Dusche gehen, eine Dusche nehmen</syn>
+                </polysem>
+                <polysem>
+                    <syn>fahren, abfahren, losfahren, wegfahren, verschwinden</syn>
+                    <subpollist>
+                        <subpolysem>
+                            <stil>ugs.</stil>
+                            <syn>losbrausen, abzischen</syn>
+                        </subpolysem>
+                    </subpollist>
+                </polysem>
+            </pollist>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a30">abbrausen, sich</stw>
+        <rest>
+            <spz>
+                <syn>unter die Dusche gehen, sich duschen, sich abduschen, eine Dusche nehmen</syn>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a31">abbrechen</stw>
+        <rest>
+            <pollist>
+                <polysem>
+                    <syn>zerstören, niederreißen, abreißen, einreißen, abtragen, abbauen, abtrennen,
+                        beseitigen, entfernen</syn>
+                    <subpollist>
+                        <subpolysem>
+                            <stil>ugs.</stil>
+                            <syn>wegreißen</syn>
+                        </subpolysem>
+                    </subpollist>
+                </polysem>
+                <polysem>
+                    <syn>in Stücke brechen, entzweigehen, durchbrechen, wegbrechen, abknicken,
+                        abgehen, abfallen, splittern</syn>
+                </polysem>
+                <polysem>
+                    <syn>zerstückeln, zerteilen, zerlegen</syn>
+                </polysem>
+                <polysem>
+                    <syn>Schluss machen, die Beziehung auflösen, brechen mit, sich lösen, den Rücken
+                        kehren, sich abwenden von, die Verbindung lösen</syn>
+                </polysem>
+                <polysem>
+                    <idm idref="a1453">aufgeben</idm>
+                </polysem>
+                <polysem>
+                    <syn>pflücken, abreißen, abknicken, abpflücken, abzupfen, ernten, lesen</syn>
+                    <subpollist>
+                        <subpolysem>
+                            <stil>ugs.</stil>
+                            <syn>rupfen, abrupfen</syn>
+                        </subpolysem>
+                    </subpollist>
+                </polysem>
+            </pollist>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a32">abbremsen</stw>
+        <rest>
+            <pollist>
+                <polysem>
+                    <syn>bremsen, halten, anhalten, Halt machen, stoppen, abstoppen, auf die Bremse
+                        treten</syn>
+                </polysem>
+                <polysem>
+                    <syn>hemmen, aufhalten, behindern, blockieren, beeinträchtigen, einschränken,
+                        lähmen, bremsen, zügeln, entgegenwirken</syn>
+                </polysem>
+            </pollist>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a33">abbrennen</stw>
+        <rest>
+            <spz>
+                <syn>niederbrennen, Feuer legen, in Flammen setzen<lexem typ="slash-wort">, in
+                        Flammen </lexem>aufgehen lassen, in Schutt und Asche legen, einen Brand
+                    legen</syn>
+                <subpollist>
+                    <subpolysem>
+                        <stil>ugs.</stil>
+                        <syn>abfackeln</syn>
+                    </subpolysem>
+                </subpollist>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a34">abbringen</stw>
+        <rest>
+            <pollist>
+                <polysem>
+                    <syn>ausreden, verleiden, abraten, abhalten, wegführen von</syn>
+                </polysem>
+                <polysem>
+                    <idm idref="a246">ablenken</idm>
+                </polysem>
+            </pollist>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="verweis" id="a35">abbröckeln</stw>
+        <rest>
+            <spz>
+                <idm idref="a24">abblättern</idm>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a36">Abbruch</stw>
+        <n>
+            <pollist>
+                <polysem>
+                    <syn>Auflösung, Abbau, Demontage, Zerlegung, Abriss, Niederreißung, Zerstörung,
+                        Demontierung, Abtragung</syn>
+                </polysem>
+                <polysem>
+                    <syn>Einstellung, Aufgabe, Beendigung, Aufhebung, Beseitigung,
+                        Außerkraftsetzung, Annullierung, Abschaffung, Aufkündigung, Auflösung</syn>
+                </polysem>
+            </pollist>
+        </n>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a37">abbrummen</stw>
+        <rest>
+            <spz>
+                <stil>ugs. für</stil>
+                <syn>einsitzen</syn>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a3002">abbuchen</stw>
+        <rest>
+            <spz>
+                <syn>abziehen, abheben, wegnehmen, herunternehmen</syn>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a38">abbürsten</stw>
+        <rest>
+            <pollist>
+                <polysem>
+                    <syn>bürsten, säubern, putzen, reinigen, striegeln<bsp-hinw>Pferd</bsp-hinw>,
+                        wienern, wichsen, schrubben</syn>
+                </polysem>
+                <polysem>
+                    <idm idref="a89">abfertigen</idm>
+                </polysem>
+            </pollist>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a39">abbüßen</stw>
+        <rest>
+            <pollist>
+                <polysem>
+                    <syn>büßen, verbüßen, sühnen, geradestehen für, Buße tun</syn>
+                </polysem>
+                <polysem>
+                    <bsp-wort typ="unspez" id="a40">eine Strafe abbüßen</bsp-wort>
+                    <syn>einsitzen, in Haft<lexem typ="slash-wort"> sitzen, </lexem>im
+                            Gefängnis<lexem typ="slash-wort"> sitzen, </lexem>hinter Schloss und
+                            Riegel<lexem typ="slash-wort"> sitzen, </lexem>hinter Gittern<lexem
+                            typ="slash-wort"> sitzen, </lexem>im Arrest sitzen, inhaftiert<lexem
+                            typ="slash-wort"> sein, </lexem>gefangen<lexem typ="slash-wort"> sein,
+                        </lexem>eingesperrt sein</syn>
+                    <subpollist>
+                        <subpolysem>
+                            <stil>ugs.</stil>
+                            <syn>abbrummen</syn>
+                        </subpolysem>
+                    </subpollist>
+                </polysem>
+            </pollist>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a42">abchecken</stw>
+        <rest>
+            <spz>
+                <syn>prüfen, untersuchen, testen, kontrollieren, begutachten, inspizieren,
+                    nachsehen, sich überzeugen wollen, durchgehen, sich vergewissern</syn>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a41">Abc–Schütze</stw>
+        <n>
+            <spz>
+                <syn>Schulanfänger</syn>
+                <subpollist>
+                    <subpolysem>
+                        <stil>regional, schweiz.</stil>
+                        <syn>Erstklässler</syn>
+                    </subpolysem>
+                    <subpolysem>
+                        <stil>österr.</stil>
+                        <syn>Taferlklassler</syn>
+                    </subpolysem>
+                </subpollist>
+            </spz>
+        </n>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a3006">abdämmen</stw>
+        <rest>
+            <spz>
+                <syn>dämmen, eindämmen<bsp-hinw>Wassermassen</bsp-hinw>, abdichten, mildern,
+                    abmildern, dämpfen, abschotten, abdämpfen, abschwächen</syn>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a43">abdampfen</stw>
+        <rest>
+            <spz>
+                <syn>abfahren, wegfahren, verreisen, sich auf die Reise begeben<lexem
+                        typ="slash-wort">, sich auf die Reise </lexem>machen, auf Reise gehen,
+                    aufbrechen, starten, die Reise antreten, sich einschiffen,
+                        auslaufen<bsp-hinw>Schiff</bsp-hinw>, den Hafen verlassen, abfliegen,
+                    weggehen</syn>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a44">abdämpfen</stw>
+        <rest>
+            <spz>
+                <syn>mildern, abmildern, lindern, abschwächen, dämpfen, dimmen, abfedern</syn>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="verweis" id="a45">abdanken</stw>
+        <rest>
+            <spz>
+                <idm idref="k989">kündigen</idm>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a46">abdecken</stw>
+        <rest>
+            <pollist>
+                <polysem>
+                    <syn>zudecken, verdecken, bedecken, verhängen</syn>
+                </polysem>
+                <polysem>
+                    <syn>schützen, aufpassen auf, abschirmen</syn>
+                </polysem>
+                <polysem>
+                    <idm idref="a300">abräumen</idm>
+                </polysem>
+                <polysem>
+                    <syn>tilgen, abzahlen, abtragen, abgelten, abbezahlen, begleichen, eine Schuld
+                            aufheben<lexem typ="slash-wort">, eine Schuld </lexem>bereinigen</syn>
+                </polysem>
+            </pollist>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a3004">Abdeckung</stw>
+        <n>
+            <pollist>
+                <polysem>
+                    <syn>Decke, Bedeckung, Schutz, Deckel, Hülle</syn>
+                </polysem>
+                <polysem>
+                    <syn>Absicherung, Tilgung, Ausgleich, Sicherheit<lexem typ="aus-erw">,
+                            Sicherheit</lexem><lexem typ="klamm-erw">en</lexem></syn>
+                </polysem>
+            </pollist>
+        </n>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a47">abdichten</stw>
+        <rest>
+            <spz>
+                <syn>zustopfen, verstopfen, isolieren, verfugen, abdämmen, dichten, schließen,
+                    ausfüllen</syn>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a48">abdienen</stw>
+        <rest>
+            <spz>
+                <syn>hinter sich bringen, ausführen, durchführen, bestehen, absolvieren, schaffen,
+                    ablegen, vollbringen</syn>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a49">abdrängen</stw>
+        <rest>
+            <spz>
+                <syn>verdrängen, wegschieben, wegdrängen, zurückdrängen, beiseiteschieben</syn>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a50">abdrehen</stw>
+        <rest>
+            <pollist>
+                <polysem>
+                    <syn>abstellen, ausstellen, abschalten, ausschalten, stoppen, außer Betrieb
+                        setzen, ausdrehen</syn>
+                </polysem>
+                <polysem>
+                    <syn>Filmaufnahmen beenden, einen Film fertigstellen</syn>
+                </polysem>
+                <polysem>
+                    <syn>einen anderen Kurs nehmen, eine andere Richtung einschlagen, wenden,
+                        drehen, schwenken</syn>
+                </polysem>
+            </pollist>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a3005">abdriften</stw>
+        <rest>
+            <pollist>
+                <polysem>
+                    <syn>abschweifen, vom Kurs<lexem typ="slash-wort"> abweichen, vom </lexem>Thema
+                        abweichen, vom Weg abkommen, abgeleiten, weggetrieben<lexem typ="slash-wort"
+                            > werden, </lexem>fortgetrieben werden</syn>
+                </polysem>
+                <polysem>
+                    <syn>das Bewusstsein verlieren, abgelenkt werden</syn>
+                </polysem>
+            </pollist>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a51">abdrosseln</stw>
+        <rest>
+            <pollist>
+                <polysem>
+                    <syn>hemmen, aufhalten, behindern, blockieren, beeinträchtigen, einschränken,
+                        lähmen, bremsen, zügeln, entgegenwirken</syn>
+                </polysem>
+                <polysem>
+                    <idm idref="d504">drosseln</idm>
+                </polysem>
+            </pollist>
+        </rest>
+    </eintrag>
+    <box spalten="2">
+        <box-stw id="a10550">Abdruck: Über Drucke, Abdrücke und Ausdrücke</box-stw>
+        <box-inhalt>Einige Zusammensetzungen, in denen <box-meta>Druck</box-meta> das Grundwort
+            bildet, haben unterschiedliche Bedeutungsvarianten, abhängig davon, ob der Plural des
+            Substantivs <box-meta>Druck</box-meta> mit oder ohne Umlaut gebildet wird.<br/>Wer von
+                <box-meta>Abdrucken,</box-meta>
+            <box-meta>Ausdrucken</box-meta> oder ganz einfach von <box-meta>Drucken</box-meta>
+            spricht, bezieht sich damit ausschließlich auf gedruckte Texte oder Bilder. Hingegen
+            bezeichnen <box-meta>Abdrücke</box-meta> Spuren, die beispielsweise im Schnee, auf einer
+            Glasscheibe oder auf feuchtem Untergrund hinterlassen wurden. Mit
+                <box-meta>Ausdrücken</box-meta> wiederum können sowohl sprachliche Äußerungen als
+            auch mathematische Aussagen gemeint sein.</box-inhalt>
+    </box>
+    <eintrag>
+        <stw typ="unspez" id="a52">Abdruck</stw>
+        <n>
+            <pollist>
+                <polysem>
+                    <syn>Abguss, Abbildung</syn>
+                </polysem>
+                <polysem>
+                    <syn>Veröffentlichung, Druck, Auflage, Publikation, Edition, Ausgabe</syn>
+                </polysem>
+                <polysem>
+                    <syn>Fußstapfen, Spur, Fußspur, Fährte</syn>
+                </polysem>
+            </pollist>
+        </n>
+        <info/>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a53">abdrucken</stw>
+        <rest>
+            <spz>
+                <syn>publizieren, veröffentlichen, herausgeben, herausbringen, drucken, erscheinen
+                    lassen, verlegen, in Umlauf setzen<lexem typ="slash-wort">, in Umlauf
+                    </lexem>bringen, an die Öffentlichkeit bringen, verbreiten, vertreiben, auf den
+                    Markt bringen, auflegen</syn>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a54">abdrücken</stw>
+        <rest>
+            <pollist>
+                <polysem>
+                    <syn>schießen, abfeuern, abschießen, abziehen, einen Schuss abgehen lassen<lexem
+                            typ="slash-wort">, einen Schuss </lexem>auslösen</syn>
+                </polysem>
+                <polysem>
+                    <idm idref="l392">liebkosen</idm>
+                </polysem>
+            </pollist>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a55">abdrücken, sich</stw>
+        <rest>
+            <pollist>
+                <polysem>
+                    <syn>sich abzeichnen, sich eindrücken, Spuren<lexem typ="slash-wort">
+                            hinterlassen, </lexem>einen Abdruck hinterlassen</syn>
+                </polysem>
+                <polysem>
+                    <syn>sich abstoßen, sich abstemmen, sich wegdrücken</syn>
+                </polysem>
+            </pollist>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a56">abdunkeln</stw>
+        <rest>
+            <spz>
+                <syn>verdunkeln, dunkel machen, das Tageslicht<lexem typ="slash-wort"> abschirmen,
+                    </lexem>die Sonne abschirmen, abblenden</syn>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a57">abduschen, sich</stw>
+        <rest>
+            <spz>
+                <syn>unter die Dusche gehen, eine Dusche nehmen, duschen, sich abbrausen</syn>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="verweis" id="a58">abebben</stw>
+        <rest>
+            <spz>
+                <idm idref="a94">abflauen</idm>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a59">Abend</stw>
+        <n>
+            <spz>
+                <syn>Tagesende, Dunkelheit, Abendstunde, Nachteinbruch, Dämmerstunde, sinkende
+                    Nacht</syn>
+            </spz>
+        </n>
+    </eintrag>
+    <eintrag>
+        <stw typ="verweis" id="a60">Abendbrot</stw>
+        <n>
+            <spz>
+                <idm idref="a62">Abendessen</idm>
+            </spz>
+        </n>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a61">Abenddämmerung</stw>
+        <n>
+            <spz>
+                <syn>Abendlicht, Dämmerlicht, Abendrot, Halbdunkel, Zwielicht, Sonnenuntergang,
+                    Schummer, Schummerstunde</syn>
+                <subpollist>
+                    <subpolysem>
+                        <stil>poet.</stil>
+                        <syn>blaue Stunde, Abendgrauen</syn>
+                    </subpolysem>
+                </subpollist>
+            </spz>
+        </n>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a62">Abendessen</stw>
+        <n>
+            <spz>
+                <syn>Abendbrot, Abendmahl, Abendmahlzeit</syn>
+                <subpollist>
+                    <subpolysem>
+                        <stil>österr.</stil>
+                        <syn>Nachtmahl</syn>
+                    </subpolysem>
+                    <subpolysem>
+                        <stil>schweiz., regional</stil>
+                        <syn>Nachtessen</syn>
+                    </subpolysem>
+                    <subpolysem>
+                        <stil>geh.</stil>
+                        <syn>Abendtafel, Souper, Diner</syn>
+                    </subpolysem>
+                </subpollist>
+            </spz>
+        </n>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a3008">Abendkleid</stw>
+        <n>
+            <spz>
+                <syn>Robe, Abendrobe, Gesellschaftskleid, Ballkleid, Festkleid, Cocktailkleid,
+                    Gala</syn>
+            </spz>
+        </n>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a63">Abendland</stw>
+        <n>
+            <spz>
+                <syn>Europa, der Westen, Okzident, die Alte Welt</syn>
+                <subpollist>
+                    <subpolysem>
+                        <stil>poet.</stil>
+                        <syn>Hesperien</syn>
+                    </subpolysem>
+                </subpollist>
+            </spz>
+        </n>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a64">Abendmahl</stw>
+        <n>
+            <pollist>
+                <polysem>
+                    <syn>Kommunion, Altarsakrament, Eucharistie, Tisch des Herrn</syn>
+                </polysem>
+                <polysem>
+                    <idm idref="a62">Abendessen</idm>
+                </polysem>
+            </pollist>
+        </n>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a65">abends</stw>
+        <rest>
+            <spz>
+                <syn>jeden<lexem typ="slash-wort"> Abend, </lexem>am Abend</syn>
+                <subpollist>
+                    <subpolysem>
+                        <stil>geh.</stil>
+                        <syn>des Abends</syn>
+                    </subpolysem>
+                </subpollist>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a66">Abenteuer</stw>
+        <n>
+            <pollist>
+                <polysem>
+                    <syn>Erlebnis, gewagtes Unternehmen<lexem typ="slash-wort">, gewagtes
+                        </lexem>Geschehen, Wagnis, Risiko, Mutprobe, Vabanquespiel</syn>
+                </polysem>
+                <polysem>
+                    <idm idref="a569">Affäre</idm>
+                </polysem>
+            </pollist>
+        </n>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a67">abenteuerlich</stw>
+        <rest>
+            <pollist>
+                <polysem>
+                    <syn>gewagt, waghalsig, tollkühn, gefährlich, riskant, verwegen,
+                        halsbrecherisch, fantastisch, selbstmörderisch</syn>
+                </polysem>
+                <polysem>
+                    <syn>ereignisreich, bewegt, spektakulär, aufregend</syn>
+                </polysem>
+            </pollist>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a68">Abenteurer</stw>
+        <n>
+            <spz>
+                <syn>Glücksritter, Glücksjäger, Glücksspieler, Hasardeur</syn>
+            </spz>
+        </n>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a69">aber</stw>
+        <rest>
+            <spz>
+                <syn>doch, jedoch, allerdings, indes, indessen, dagegen, wogegen, hingegen,
+                    demgegenüber, dennoch, gleichwohl, trotzdem, allein, freilich, sondern,
+                    wiederum, im Gegensatz, dafür</syn>
+                <subpollist>
+                    <subpolysem>
+                        <stil>ugs.</stil>
+                        <syn>nichtsdestotrotz</syn>
+                    </subpolysem>
+                </subpollist>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a70">Aberglaube</stw>
+        <n>
+            <spz>
+                <syn>Einbildung, Wahnvorstellung, Wunderglaube, Geisterfurcht</syn>
+            </spz>
+        </n>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a71">aberkennen</stw>
+        <rest>
+            <spz>
+                <syn>absprechen, entziehen, abjudizieren, abstreiten, abnehmen, wegnehmen,
+                    vorenthalten</syn>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a72">abermals</stw>
+        <rest>
+            <spz>
+                <syn>wieder, wiederholt, wiederum, noch einmal, nochmals, von neuem, erneut,
+                    nochmalig, zum zweiten Mal</syn>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a3009">abernten</stw>
+        <rest>
+            <spz>
+                <syn>ernten, einbringen, einfahren, pflücken, lesen</syn>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="verweis" id="a73">Aberwitz</stw>
+        <n>
+            <spz>
+                <idm idref="u889">Unsinn</idm>
+            </spz>
+        </n>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a74">aberwitzig</stw>
+        <rest>
+            <spz>
+                <syn>wahnsinnig, irrsinnig, unsinnig, absurd, abwegig, verrückt</syn>
+                <subpollist>
+                    <subpolysem>
+                        <stil>ugs.</stil>
+                        <syn>idiotisch, hirnverbrannt, hirnrissig</syn>
+                    </subpolysem>
+                </subpollist>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a3010">abfackeln</stw>
+        <rest>
+            <pollist>
+                <polysem>
+                    <syn>verbrennen, abbrennen<bsp-hinw>Gase</bsp-hinw></syn>
+                </polysem>
+                <polysem>
+                    <stil>ugs. für</stil>
+                    <syn>niederbrennen, in Brand stecken, anzünden</syn>
+                </polysem>
+            </pollist>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a75">abfahren</stw>
+        <rest>
+            <pollist>
+                <polysem>
+                    <syn>abreisen, wegfahren, verreisen, sich auf die Reise begeben<lexem
+                            typ="slash-wort">, sich auf die Reise </lexem>machen, auf Reise gehen,
+                        aufbrechen, starten, die Reise antreten</syn>
+                </polysem>
+                <polysem>
+                    <idm idref="a119">abgehen</idm>
+                </polysem>
+                <polysem>
+                    <syn>fortschaffen, forträumen, fortbringen, wegschaffen, wegbringen, beseitigen,
+                        entfernen, beiseiteschaffen, abtransportieren</syn>
+                </polysem>
+                <polysem>
+                    <syn>abnutzen<bsp-hinw>Reifen</bsp-hinw>, verschleißen, verbrauchen</syn>
+                </polysem>
+                <polysem>
+                    <bsp-wort typ="verweis" id="a76">jmdn. abfahren lassen</bsp-wort>
+                    <idm idref="a89">abfertigen</idm>
+                </polysem>
+            </pollist>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a77">abfahren auf</stw>
+        <rest>
+            <spz>
+                <syn>sich begeistern für, toll<lexem typ="slash-wort"> finden, </lexem>gut<lexem
+                        typ="slash-wort"> finden, </lexem>irre<lexem typ="slash-wort"> finden,
+                    </lexem>super finden, abheben, ausflippen, <lexem typ="aus-nachs">durchdrehen,
+                        </lexem><lexem typ="klamm-vors">vor Begeisterung</lexem> durchdrehen, hin
+                    und weg sein von, verrückt sein nach</syn>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a78">Abfall</stw>
+        <n>
+            <pollist>
+                <polysem>
+                    <syn>Unrat, Dreck, Mist, Müll, Kehricht</syn>
+                </polysem>
+                <polysem>
+                    <syn>Rückstand, Rest</syn>
+                </polysem>
+                <polysem>
+                    <idm idref="r50">Ramsch</idm>
+                </polysem>
+                <polysem>
+                    <syn>Neigung, Schräge, Gefälle, Senkung, Höhenunterschied, Abschüssigkeit</syn>
+                </polysem>
+                <polysem>
+                    <syn>Sinneswandel, Umkehr, Lossagung, Bruch, Treubruch, Preisgabe, Verrat,
+                        Loslösung</syn>
+                </polysem>
+            </pollist>
+        </n>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a79">Abfalleimer</stw>
+        <n>
+            <spz>
+                <syn>Eimer, Ascheneimer, Kuttereimer, Abfalltonne, Mülltonne, Müllcontainer,
+                    Papierkorb</syn>
+                <subpollist>
+                    <subpolysem>
+                        <stil>österr.</stil>
+                        <syn>Coloniakübel, Mistkübel</syn>
+                    </subpolysem>
+                </subpollist>
+            </spz>
+        </n>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a80">abfallen</stw>
+        <rest>
+            <pollist>
+                <polysem>
+                    <idm idref="a24">abblättern</idm>
+                </polysem>
+                <polysem>
+                    <syn>abtrünnig<lexem typ="slash-wort"> werden, </lexem>untreu werden, sich
+                        lösen, sich loslösen, sich freimachen, brechen mit, sich befreien,
+                        abschütteln, sich abwenden, sich abkehren, sich lossagen, die Treue brechen,
+                        im Stich lassen, umschwenken, anderen Sinnes werden, sich anders besinnen,
+                        einen Wandel durchmachen, verraten, preisgeben</syn>
+                    <subpollist>
+                        <subpolysem>
+                            <stil>ugs.</stil>
+                            <syn>abspringen, umfallen</syn>
+                        </subpolysem>
+                    </subpollist>
+                </polysem>
+                <polysem>
+                    <syn>an Höhe verlieren, abstürzen, fallen, herunterfallen, absinken, einsinken,
+                        versinken, zu Boden stürzen</syn>
+                    <subpollist>
+                        <subpolysem>
+                            <stil>ugs.</stil>
+                            <syn>absacken</syn>
+                        </subpolysem>
+                    </subpollist>
+                </polysem>
+                <polysem>
+                    <syn>sich neigen, sich senken, nach unten gehen</syn>
+                </polysem>
+                <polysem>
+                    <syn>erlahmen, nachlassen, abbauen, schlechter werden, nicht Schritt halten,
+                        zurückbleiben</syn>
+                    <subpollist>
+                        <subpolysem>
+                            <stil>ugs.</stil>
+                            <syn>abschlaffen</syn>
+                        </subpolysem>
+                    </subpollist>
+                </polysem>
+            </pollist>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="verweis" id="a82">abfallend</stw>
+        <rest>
+            <spz>
+                <idm idref="a376">abschüssig</idm>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a81">abfallen für</stw>
+        <rest>
+            <spz>
+                <syn>abbekommen, erhalten, zufallen, übrig bleiben, einbringen, einträglich
+                    sein</syn>
+                <subpollist>
+                    <subpolysem>
+                        <stil>ugs.</stil>
+                        <syn>abkriegen, herausspringen für</syn>
+                    </subpolysem>
+                </subpollist>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a83">abfällig</stw>
+        <rest>
+            <spz>
+                <syn>abschätzig, geringschätzig, abwertend, verächtlich, missbilligend, pejorativ,
+                    despektierlich, missfällig, wegwerfend, respektlos, herabsetzend, entwürdigend,
+                    diffamierend, schlecht, schlimm, übel, unfreundlich, kritisch, scharf, tadelnd,
+                    vernichtend</syn>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a85">abfangen</stw>
+        <rest>
+            <pollist>
+                <polysem>
+                    <syn>anhalten, aufhalten, abpassen, abwarten</syn>
+                </polysem>
+                <polysem>
+                    <idm idref="a1433">auffangen</idm>
+                </polysem>
+            </pollist>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a86">abfärben</stw>
+        <rest>
+            <pollist>
+                <polysem>
+                    <syn>sich übertragen auf, beeinflussen, anstecken, einwirken, Einfluss
+                            nehmen<lexem typ="slash-wort"> auf, Einfluss </lexem>haben auf,
+                        infizieren</syn>
+                </polysem>
+                <polysem>
+                    <syn>Farbe verlieren<lexem typ="slash-wort">, Farbe </lexem>abgeben, auslaufen,
+                        ausgehen, nicht farbecht sein</syn>
+                </polysem>
+            </pollist>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a87">abfassen</stw>
+        <rest>
+            <spz>
+                <syn>verfassen, schreiben, niederschreiben, anfertigen, formulieren, arbeiten an,
+                        <lexem typ="aus-nachs">niederlegen, </lexem><lexem typ="klamm-vors"
+                        >schriftlich</lexem> niederlegen, festhalten, aufzeichnen, ausarbeiten</syn>
+                <subpollist>
+                    <subpolysem>
+                        <stil>geh.</stil>
+                        <syn>zu Papier bringen</syn>
+                    </subpolysem>
+                </subpollist>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a88">Abfassung</stw>
+        <n>
+            <spz>
+                <syn>Niederschrift, Aufzeichnung, Anfertigung, Formulierung, Konzipierung,
+                    Entwurf</syn>
+            </spz>
+        </n>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a3011">abfedern</stw>
+        <rest>
+            <pollist>
+                <polysem>
+                    <syn>abfangen, auffangen, mildern, abmildern</syn>
+                </polysem>
+                <polysem>
+                    <sachg>Sport</sachg>
+                    <syn>nachfedern, wippen</syn>
+                </polysem>
+            </pollist>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a3003">abfeiern</stw>
+        <rest>
+            <spz>
+                <stil>ugs. für</stil>
+            </spz>
+            <pollist>
+                <polysem>
+                    <syn>durch Freizeit ausgleichen<bsp-hinw>Überstunden</bsp-hinw></syn>
+                    <subpollist>
+                        <subpolysem>
+                            <stil>ugs.</stil>
+                            <syn>abbummeln</syn>
+                        </subpolysem>
+                    </subpollist>
+                </polysem>
+                <polysem>
+                    <syn>feiern, sich amüsieren, sich vergnügen</syn>
+                    <subpollist>
+                        <subpolysem>
+                            <stil>ugs.</stil>
+                            <syn>Party machen, einen draufmachen</syn>
+                        </subpolysem>
+                    </subpollist>
+                </polysem>
+            </pollist>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a89">abfertigen</stw>
+        <rest>
+            <pollist>
+                <polysem>
+                    <syn>jmdn. abservieren<lexem typ="slash-wort">, jmdn. </lexem>abspeisen<lexem
+                            typ="slash-wort">, jmdn. </lexem>ablehnen<lexem typ="slash-wort">, jmdn.
+                        </lexem>abweisen, eine Abfuhr erteilen, jmdm. die kalte Schulter zeigen,
+                        einen Korb geben, nicht zulassen, den Laufpass geben</syn>
+                    <subpollist>
+                        <subpolysem>
+                            <stil>ugs.</stil>
+                            <syn>abwimmeln, abbürsten, abblitzen<lexem typ="slash-wort"> lassen,
+                                    </lexem>auflaufen<lexem typ="slash-wort"> lassen,
+                                </lexem>abfahren lassen</syn>
+                        </subpolysem>
+                    </subpollist>
+                </polysem>
+                <polysem>
+                    <syn>bedienen<bsp-hinw>Schalter</bsp-hinw>,
+                            kontrollieren<bsp-hinw>Zoll</bsp-hinw></syn>
+                </polysem>
+            </pollist>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="verweis" id="a90">abfeuern</stw>
+        <rest>
+            <spz>
+                <idm idref="s326">schießen</idm>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a91">abfinden</stw>
+        <rest>
+            <pollist>
+                <polysem>
+                    <syn>abgelten, ablösen, entschädigen, zufriedenstellen, vergüten, ersetzen,
+                        erstatten, begleichen, ausgleichen, auszahlen</syn>
+                </polysem>
+                <polysem>
+                    <bsp-wort typ="unspez" id="a92">sich abfinden mit</bsp-wort>
+                    <syn>akzeptieren, ertragen, sich zufriedengeben, zufrieden sein mit,
+                        vorliebnehmen mit, sich bescheiden, keine Ansprüche mehr stellen, nicht mehr
+                        verlangen, dulden, resignieren, kapitulieren, zurückstecken, hinnehmen, sich
+                        fügen, sich schicken<lexem typ="slash-wort"> in, sich </lexem>ergeben in,
+                        sich begnügen, in Kauf nehmen</syn>
+                    <subpollist>
+                        <subpolysem>
+                            <stil>ugs.</stil>
+                            <syn>in den sauren Apfel beißen</syn>
+                        </subpolysem>
+                    </subpollist>
+                </polysem>
+            </pollist>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="verweis" id="a93">Abfindung</stw>
+        <n>
+            <spz>
+                <idm idref="e1206">Ersatz</idm>
+            </spz>
+        </n>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a3012">abflachen</stw>
+        <rest>
+            <pollist>
+                <polysem>
+                    <syn>abschrägen, abkanten, fasen, abfasen</syn>
+                </polysem>
+                <polysem>
+                    <syn>sinken, absinken, abfallen, abebben, abflauen, an Niveau<lexem
+                            typ="slash-wort"> verlieren, an </lexem>Inhalt<lexem typ="slash-wort">
+                            verlieren, an </lexem>Qualität verlieren, weniger werden, sich
+                        abschwächen, sich reduzieren, zurückgehen</syn>
+                    <subpollist>
+                        <subpolysem>
+                            <stil>geh.</stil>
+                            <syn>nivellieren</syn>
+                        </subpolysem>
+                    </subpollist>
+                </polysem>
+            </pollist>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a94">abflauen</stw>
+        <rest>
+            <spz>
+                <syn>verebben, abebben, im Schwinden<lexem typ="slash-wort"> begriffen sein, im
+                    </lexem>Rückgang begriffen sein, sich verringern, sich vermindern, ermatten,
+                    abnehmen, nachlassen, verklingen, abklingen, ausklingen, vergehen, zurückgehen,
+                    sinken, absinken, sich beruhigen, sich abschwächen, leiser<lexem
+                        typ="slash-wort"> werden, </lexem>schwächer werden, aushallen, verhallen,
+                    absterben, sich dem Ende zuneigen, ausgehen,
+                        erkalten<bsp-hinw>Gefühle</bsp-hinw>, endigen, erlöschen, versiegen,
+                    abschwellen, einschlafen, sich legen, auspendeln, zur Ruhe kommen, verstummen,
+                    erlahmen, versanden, versickern, abflachen, abbauen, schwinden, schrumpfen,
+                    auslaufen, zu Ende gehen, aufhören, zum Stillstand<lexem typ="slash-wort">
+                        kommen, zum </lexem>Erliegen kommen</syn>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a95">abfliegen</stw>
+        <rest>
+            <spz>
+                <syn>wegfliegen, davonfliegen, fortfliegen, abreisen, starten</syn>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a96">abfließen</stw>
+        <rest>
+            <pollist>
+                <polysem>
+                    <syn>ablaufen, abrinnen, absickern, abströmen, ausfließen, wegfließen, sich
+                        leeren</syn>
+                </polysem>
+                <polysem>
+                    <syn>außer Landes<lexem typ="slash-wort"> gehen, </lexem>ins Ausland
+                            gehen<bsp-hinw>Geld</bsp-hinw></syn>
+                </polysem>
+            </pollist>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a97">Abflug</stw>
+        <n>
+            <spz>
+                <syn>Start, Flugbeginn, Departure, Take–off</syn>
+                <subpollist>
+                    <subpolysem>
+                        <stil>ugs. für</stil>
+                        <syn>Abfahrt</syn>
+                    </subpolysem>
+                </subpollist>
+            </spz>
+        </n>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a98">Abfluss</stw>
+        <n>
+            <spz>
+                <syn>Abwasserkanal, Ablauf, Ausguss, Abguss, Kloake, Gully, Rinnstein, Ablaufrohr,
+                    Ablaufrinne, Abzug, Abzugsrinne, Ausfluss, Abflussloch, Abflussrohr,
+                    Abflussrinne</syn>
+            </spz>
+        </n>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a99">Abfolge</stw>
+        <n>
+            <pollist>
+                <polysem>
+                    <syn>Reihenfolge, Folge, Aufeinanderfolge, Hintereinander, Nacheinander,
+                        Reihung, Aneinanderreihung, Ordnung, Rangfolge, Programm</syn>
+                </polysem>
+                <polysem>
+                    <idm idref="a233">Ablauf</idm>
+                </polysem>
+            </pollist>
+        </n>
+    </eintrag>
+    <eintrag>
+        <stw typ="verweis" id="a100">abfordern</stw>
+        <rest>
+            <spz>
+                <idm idref="f537">fordern</idm>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a101">abfragen</stw>
+        <rest>
+            <spz>
+                <syn>abhören, prüfen, überprüfen, testen, examinieren, kontrollieren, aufsagen
+                    lassen, Wissen feststellen, auf die Probe stellen, einer Prüfung
+                    unterziehen</syn>
+                <subpollist>
+                    <subpolysem>
+                        <stil>ugs.</stil>
+                        <syn>abklopfen, unter die Lupe nehmen, auf den Zahn fühlen</syn>
+                    </subpolysem>
+                </subpollist>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a102">abfressen</stw>
+        <rest>
+            <spz>
+                <syn>abgrasen, abweiden, abäsen, kahlfressen, leerfressen, abnagen, abknabbern</syn>
+                <subpollist>
+                    <subpolysem>
+                        <stil>ugs.</stil>
+                        <syn>ratzekahl fressen</syn>
+                    </subpolysem>
+                </subpollist>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="verweis" id="a103">abfrottieren</stw>
+        <rest>
+            <spz>
+                <idm idref="a307">abreiben</idm>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a104">Abfuhr</stw>
+        <n>
+            <pollist>
+                <polysem>
+                    <idm idref="a242">Ablehnung</idm>
+                </polysem>
+                <polysem>
+                    <syn>Transport, Beförderung, Überführung, Verfrachtung, Verladung, Versand,
+                        Abtransport, Lieferung</syn>
+                </polysem>
+            </pollist>
+        </n>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a105">abführen</stw>
+        <rest>
+            <pollist>
+                <polysem>
+                    <idm idref="f298">festnehmen</idm>
+                </polysem>
+                <polysem>
+                    <syn>zwangsweise wegbringen<lexem typ="slash-wort">, zwangsweise
+                            </lexem>mitnehmen<lexem typ="slash-wort">, zwangsweise </lexem>abholen,
+                        auf die Wache bringen</syn>
+                </polysem>
+                <polysem>
+                    <idm idref="a246">ablenken</idm>
+                </polysem>
+                <polysem>
+                    <syn>zahlen, bezahlen, entrichten, überweisen, zuleiten</syn>
+                </polysem>
+                <polysem>
+                    <syn>den Darm leeren</syn>
+                    <subpollist>
+                        <subpolysem>
+                            <sachg>Med.</sachg>
+                            <syn>purgieren, laxieren</syn>
+                        </subpolysem>
+                    </subpollist>
+                </polysem>
+                <polysem>
+                    <syn>Zitat<lexem typ="slash-wort"> schließen, </lexem>Gänsefüßchen<lexem
+                            typ="slash-wort"> schließen, </lexem>Anführungszeichen schließen</syn>
+                </polysem>
+            </pollist>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="verweis" id="a106">abfüllen</stw>
+        <rest>
+            <spz>
+                <idm idref="f808">füllen</idm>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a107">Abgabe</stw>
+        <n>
+            <pollist>
+                <polysem>
+                    <syn>Gebühr, Beitrag, Beitragszahlung, Leistung, Geldleistung, Tribut, Steuer,
+                        Taxe, Maut</syn>
+                </polysem>
+                <polysem>
+                    <idm idref="u70">Übergabe</idm>
+                </polysem>
+                <polysem>
+                    <syn>Absatz, Vertrieb, Verkauf, Veräußerung</syn>
+                </polysem>
+                <polysem>
+                    <syn>Zuspiel, Abspiel, Pass, Flanke<bsp-hinw>Sport</bsp-hinw></syn>
+                </polysem>
+            </pollist>
+        </n>
+    </eintrag>
+    <box spalten="2">
+        <box-stw id="a11150">Abgang: Zwischen Tod und Theater</box-stw>
+        <box-inhalt>Der <box-meta>Abgang</box-meta> gehört zur Bühnensprache und bezeichnet in der
+            Dramaturgie den Schluss einer Szene und den vom abgehenden Schauspieler zu erreichenden
+            Effekt: <box-meta>ein guter/wirkungsvoller Abgang</box-meta>. Darüber hinaus wird der
+            Begriff im Theater auch für das Ausscheiden eines Schauspielers aus dem Ensemble
+            verwendet. Daraus hat sich die allgemeine redensartliche Bedeutung entwickelt:
+                <box-meta>Sich einen guten Abgang verschaffen</box-meta> heißt »beim Abschluss einer
+            Sache einen guten Eindruck hinterlassen«. Ein Politiker, der von seinem Amt zurücktritt,
+            kann damit <box-meta>einen spektakulären Abgang</box-meta> haben. Jemand der
+                <box-meta>einen schlechten Abgang</box-meta> hat, hat seine Sache nicht gut gemacht
+            oder ist womöglich im Streit ausgeschieden beziehungsweise entlassen worden. Die Wendung
+            hat in diesem Fall also verhüllende Funktion.<br/>Das Gleiche gilt im Zusammenhang mit
+            dem tabuisierten Thema des Sterbens: <box-meta>Abgang</box-meta> wird auch als Synonym
+            für <box-meta>Tod</box-meta> verwendet. Einer, der <box-meta>einen würdigen
+                Abgang</box-meta> hat, stirbt in Würde. Darin schwingt wiederum die Metapher vom
+            Leben als Theaterbühne mit, von der die Menschen abtreten. Der Befehl <box-meta>»Mach
+                einen Abgang«</box-meta> ist die wenig höfliche Aufforderung, zu
+            verschwinden.<br/>Nichts mit dem Theater zu tun hat der Begriff
+                <box-meta>Abgang</box-meta> im Zusammenhang mit Getränken. In der Weinsprache
+            bezeichnet er Aroma und geschmacklichen Eindruck, den ein Schluck Wein oder auch
+            Branntwein bei der Verkostung in der Kehle hinterlässt.</box-inhalt>
+    </box>
+    <eintrag>
+        <stw typ="unspez" id="a108">Abgang</stw>
+        <n>
+            <pollist>
+                <polysem>
+                    <syn>Abtritt, Abzug, Abtreten, Verlassen, Weggang</syn>
+                </polysem>
+                <polysem>
+                    <idm idref="a2164">Austritt</idm>
+                </polysem>
+                <polysem>
+                    <syn>Fehlgeburt, Abort<lexem typ="aus-erw">, Abort</lexem><lexem typ="klamm-erw"
+                            >us</lexem></syn>
+                </polysem>
+                <polysem>
+                    <syn>Abfahrt, Start, Fahrtbeginn, Aufbruch</syn>
+                </polysem>
+                <polysem>
+                    <idm idref="t258">Tod</idm>
+                </polysem>
+            </pollist>
+        </n>
+        <info/>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a109">abgearbeitet</stw>
+        <rest>
+            <spz>
+                <syn>erschöpft, entkräftet, kraftlos, schwach, abgespannt, entnervt, ausgelaugt,
+                    mitgenommen, matt, überanstrengt, erholungsbedürftig</syn>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a110">abgeben</stw>
+        <rest>
+            <pollist>
+                <polysem>
+                    <syn>übergeben, überbringen, überreichen, aushändigen, abliefern, bringen</syn>
+                </polysem>
+                <polysem>
+                    <syn>zuspielen, zuwerfen, zuschießen, abspielen, bedienen</syn>
+                </polysem>
+                <polysem>
+                    <syn>verkaufen, zum Verkauf bringen, Geschäfte<lexem typ="slash-wort"> machen,
+                        </lexem>zu Geld machen, absetzen, abstoßen, feilhalten, veräußern,
+                        überlassen</syn>
+                </polysem>
+                <polysem>
+                    <idm idref="w30">wählen</idm>
+                </polysem>
+                <polysem>
+                    <syn>verwahren lassen<bsp-hinw>Garderobe</bsp-hinw>, hinterlegen, deponieren, in
+                        Verwahrung geben</syn>
+                </polysem>
+                <polysem>
+                    <syn>ausstrahlen<bsp-hinw>Wärme</bsp-hinw>, ausströmen, verbreiten,
+                        spenden</syn>
+                </polysem>
+                <polysem>
+                    <idm idref="d97">darstellen</idm>
+                </polysem>
+                <polysem>
+                    <bsp-wort typ="unspez" id="a111">sich abgeben mit</bsp-wort>
+                    <syn>sich einlassen auf, verkehren mit, Umgang<lexem typ="slash-wort"> pflegen
+                            mit, </lexem>Kontakt pflegen mit</syn>
+                </polysem>
+                <polysem>
+                    <idm idref="b593">sich beschäftigen mit</idm>
+                </polysem>
+            </pollist>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="verweis" id="a112">abgebrannt</stw>
+        <rest>
+            <spz>
+                <idm idref="z16">zahlungsunfähig</idm>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a113">abgebrüht</stw>
+        <rest>
+            <pollist>
+                <polysem>
+                    <syn>gefühllos, gleichgültig, abgestumpft, ungerührt, hartgesotten</syn>
+                </polysem>
+                <polysem>
+                    <syn>gewitzt, geschickt, trickreich, pfiffig, taktisch, durchtrieben, listig,
+                        raffiniert, clever, abgefeimt</syn>
+                    <s-a idref="s425">schlau</s-a>
+                </polysem>
+            </pollist>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="verweis" id="a114">abgedroschen</stw>
+        <rest>
+            <spz>
+                <idm idref="a116">abgegriffen</idm>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="verweis" id="a115">abgefeimt</stw>
+        <rest>
+            <spz>
+                <idm idref="a113">abgebrüht</idm>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a116">abgegriffen</stw>
+        <rest>
+            <pollist>
+                <polysem>
+                    <syn>abgenutzt, abgetragen, verschlissen, mitgenommen, verlottert,
+                        vernachlässigt, verbraucht</syn>
+                    <subpollist>
+                        <subpolysem>
+                            <stil>ugs.</stil>
+                            <syn>abgewetzt</syn>
+                        </subpolysem>
+                    </subpollist>
+                </polysem>
+                <polysem>
+                    <syn>schematisch, geistlos, gehaltlos, billig, platt, dumm</syn>
+                    <subpollist>
+                        <subpolysem>
+                            <stil>ugs.</stil>
+                            <syn>abgedroschen, ausgeleiert, abgeleiert, abgeklappert,
+                                durchgenudelt</syn>
+                        </subpolysem>
+                    </subpollist>
+                </polysem>
+            </pollist>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a117">abgehackt</stw>
+        <rest>
+            <spz>
+                <syn>unzusammenhängend, zusammenhanglos, unterbrochen, abgebrochen, stockend,
+                    stückweise, stoßweise, stotterig, stotternd</syn>
+                <subpollist>
+                    <subpolysem>
+                        <stil>ugs.</stil>
+                        <syn>brockenweise, kleckerweise</syn>
+                    </subpolysem>
+                </subpollist>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a3014">abgehalftert</stw>
+        <rest>
+            <spz>
+                <stil>ugs. für</stil>
+                <syn>ausgedient, abgedankt, abgesetzt, verwahrlost, seiner Stellung beraubt,
+                    alt</syn>
+                <subpollist>
+                    <subpolysem>
+                        <stil>ugs.</stil>
+                        <syn>abgerissen, mitgenommen</syn>
+                    </subpolysem>
+                    <subpolysem>
+                        <stil>abwertend</stil>
+                        <syn>heruntergekommen, verlottert</syn>
+                    </subpolysem>
+                    <subpolysem>
+                        <stil>derb</stil>
+                        <syn>abgefuckt</syn>
+                    </subpolysem>
+                </subpollist>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a3015">abgehärmt</stw>
+        <rest>
+            <spz>
+                <syn>verbraucht, abgezehrt, ausgezehrt, von Sorgen gezeichnet, faltig</syn>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a118">abgehärtet</stw>
+        <rest>
+            <spz>
+                <syn>widerstandsfähig, unempfindlich, zäh, immun, gestählt, nicht anfällig</syn>
+                <subpollist>
+                    <subpolysem>
+                        <stil>ugs.</stil>
+                        <syn>stabil</syn>
+                    </subpolysem>
+                </subpollist>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a119">abgehen</stw>
+        <rest>
+            <pollist>
+                <polysem>
+                    <idm idref="a24">abblättern</idm>
+                </polysem>
+                <polysem>
+                    <syn>abschreiten, ablaufen, absuchen, entlanggehen, begehen, kontrollieren,
+                        besichtigen, patrouillieren</syn>
+                    <subpollist>
+                        <subpolysem>
+                            <stil>ugs.</stil>
+                            <syn>abklappern, abgrasen, ablatschen, belaufen, durchkämmen</syn>
+                        </subpolysem>
+                    </subpollist>
+                </polysem>
+                <polysem>
+                    <idm idref="f179">fehlen</idm>
+                </polysem>
+                <polysem>
+                    <syn>abfahren, wegfahren, abfliegen, wegfliegen, starten,
+                            auslaufen<bsp-hinw>Schiff</bsp-hinw>, in See stechen, ablegen, die Anker
+                        lichten, losfahren, verlassen</syn>
+                </polysem>
+                <polysem>
+                    <idm idref="a234">ablaufen</idm>
+                </polysem>
+                <polysem>
+                    <syn>austreten, ausscheiden, sich trennen von, weggehen, seinen Abschied nehmen,
+                        abtreten, aufhören, kündigen, sich abmelden</syn>
+                </polysem>
+            </pollist>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="verweis" id="a120">abgehen von</stw>
+        <rest>
+            <spz>
+                <idm idref="a1453">aufgeben</idm>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a121">abgekämpft</stw>
+        <rest>
+            <spz>
+                <syn>erschöpft, entkräftet, kraftlos, schwach, abgespannt, entnervt, ausgelaugt,
+                    mitgenommen, matt, überanstrengt, erholungsbedürftig, abgearbeitet</syn>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a122">abgekartet</stw>
+        <rest>
+            <spz>
+                <syn>heimlich verabredet<lexem typ="slash-wort">, heimlich </lexem>vereinbart<lexem
+                        typ="slash-wort">, heimlich </lexem>ausgemacht<lexem typ="slash-wort">,
+                        heimlich </lexem>abgestimmt<lexem typ="slash-wort">, heimlich
+                        </lexem>abgesprochen<lexem typ="slash-wort">, heimlich
+                        </lexem>beschlossen<lexem typ="slash-wort">, heimlich
+                        </lexem>ausgeheckt<lexem typ="slash-wort">, heimlich
+                        </lexem>ausgehandelt<lexem typ="slash-wort">, heimlich
+                    </lexem>festgelegt</syn>
+                <subpollist>
+                    <subpolysem>
+                        <stil>ugs.</stil>
+                        <syn>ausgekocht, ausgeklüngelt</syn>
+                    </subpolysem>
+                </subpollist>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="verweis" id="a123">abgeklärt</stw>
+        <rest>
+            <spz>
+                <idm idref="b685">besonnen</idm>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a3016">Abgeklärtheit</stw>
+        <n>
+            <spz>
+                <syn>Besonnenheit, Ruhe, Bedacht, Bedachtsamkeit, Umsicht, Gelassenheit,
+                    Gefasstheit, Reife, Gleichmut, Gleichgewicht, Beherrschtheit,
+                    Unerschütterlichkeit, Selbstbeherrschung</syn>
+                <subpollist>
+                    <subpolysem>
+                        <stil>veraltend</stil>
+                        <syn>Contenance</syn>
+                    </subpolysem>
+                </subpollist>
+            </spz>
+        </n>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a124">abgelaufen</stw>
+        <rest>
+            <pollist>
+                <polysem>
+                    <idm idref="a132">abgenutzt</idm>
+                </polysem>
+                <polysem>
+                    <syn>vorbei, vorüber, herum, vergangen, zu Ende</syn>
+                </polysem>
+            </pollist>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a125">abgelegen</stw>
+        <rest>
+            <spz>
+                <syn>abgeschieden, entlegen, abseitig, fern, weit weg, abgeschnitten, entfernt,
+                    einsam, verlassen, gottverlassen, am Ende der Welt, schwer<lexem
+                        typ="slash-wort"> erreichbar, </lexem>ungünstig erreichbar, abgeschlossen,
+                    isoliert</syn>
+                <subpollist>
+                    <subpolysem>
+                        <stil>ugs.</stil>
+                        <syn>weit vom Schuss, jwd, janz weit draußen</syn>
+                    </subpolysem>
+                    <subpolysem>
+                        <stil>derb</stil>
+                        <syn>am Arsch der Welt</syn>
+                    </subpolysem>
+                </subpollist>
+            </spz>
+        </rest>
+    </eintrag>
+    <eintrag>
+        <stw typ="unspez" id="a126">abgeleiert</stw>
+        <rest>
+            <spz>
+                <syn>schematisch, geistlos, gehaltlos, billig, platt, dumm</syn>
+                <subpollist>
+                    <subpolysem>
+                        <stil>ugs.</stil>
+                        <syn>abgedroschen, ausgeleiert, abgeklappert, durchgenudelt</syn>
+                    </subpolysem>
+                </subpollist>
+            </spz>
+        </rest>
+    </eintrag>
+</syno>
