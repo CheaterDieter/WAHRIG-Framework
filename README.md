@@ -9,7 +9,7 @@ Der Autor hat diese Arbeit im Bemühen verfasst, im Sinn eines guten wissenschaf
 
 Um hierbei Probleme zu verhindern, sollten die folgenden Hinweise beachtet werden:
 
-1. Für diese Arbeit wurde der Oxygen XML Editor in Version 21.1 eingesetzt. Eine Kom-patibilität mit neueren oder älteren Versionen kann nicht garantiert werden.
+1. Für diese Arbeit wurde der Oxygen XML Editor in Version 21.1 eingesetzt. Eine Kompatibilität mit neueren oder älteren Versionen kann nicht garantiert werden.
 
 2. Damit der Oxygen XML Editor das Framework lädt, sollte zunächst die Projektdatei Framework_Editierumgebung_WAHRIG.xpr geöffnet werden. Anschließend können die XML-Dateien geöffnet werden.
 
