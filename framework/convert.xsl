@@ -1,3 +1,6 @@
+<!-- XSLT-Konversationsroutine zur Überführung der Ausgangsdatei in eine vereinfachte Form
+* Entwickelt von David Heger -->
+
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <xsl:output method="xml" encoding="utf-8" indent="yes"/>
     
@@ -67,4 +70,10 @@
             <xsl:apply-templates/>
         </info>
     </xsl:template>    
+    
+    <xsl:template match="syno">
+        <syno konvertiert="true">
+            <xsl:apply-templates/>
+        </syno>
+    </xsl:template>     
 </xsl:stylesheet>

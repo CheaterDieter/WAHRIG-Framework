@@ -1,3 +1,9 @@
+/* LESS-Stylesheet zur Darstellung des unkonvertierten WAHRIG-Wörterbuchs
+ * Entwickelt von David Heger */
+
+
+/* LESS-Elemente */
+
 .grundschrift() {
     .schriftgroesse();
     font-family: Arial, Helvetica, sans-serif;
@@ -229,6 +235,22 @@ syn {
 
 syno {
     .grundschrift()
+}
+syno:not([konvertiert]):before {
+    background-color: #ff0000; 
+    color: #FFFFFF;
+    font-weight: bold;
+    display:block;
+    max-width:1000px;
+    content:"ACHTUNG: Die geöffnete Datei ist noch nicht ins vereinfachte Format konvertiert worden! Nehmen Sie keine Änderungen an dieser Datei vor! Um die Datei mit dem Framework zu bearbeiten oder in der Strukturansicht zu betrachten, wenden Sie zunächst das Transformation-Szenario an. Klicken Sie hierfür auf das 'Play'-Symbol in der Leiste oben oder drücken Sie Strg + Umschalt + T. So wird eine neue Datei mit vereinfachtem XML-Schema erzeugt, die problemlos bearbeitet werden kann.";
+}
+syno[konvertiert]:before {
+    background-color: #FFA500; 
+    color: #FFFFFF;
+    font-weight: bold;
+    display:block;
+    max-width:1000px;
+    content:"ACHTUNG: Diese Ansicht dient nur der Vorschau. Um Veränderungen vorzunehmen, sollten Sie über die Schaltfläche 'Stile' in die Strukturansicht wechseln.";
 }
 
 /* Elemente für aktualisierte XML */

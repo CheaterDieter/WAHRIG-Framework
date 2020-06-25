@@ -1,8 +1,9 @@
-Oxygen XML-Framework für das WAHRIG Synonymwörterbuch [Krome, Sabine (Hrg.) (2013): Brockhaus. Wahrig Synonymwörterbuch. 8. Ausgabe. Gütersloh: Wissenmedia.]
+****Oxygen XML-Framework für das WAHRIG Synonymwörterbuch**** 
+*[Krome, Sabine (Hrg.) (2013): Brockhaus. Wahrig Synonymwörterbuch. 8. Ausgabe. Gütersloh: Wissenmedia.]*
 
 Entwickelt von David Heger im Rahmen der Bachelorarbeit mit dem Titel "Editierumgebungen für Wörterbücher mit XML-Editoren"
 
-Hinweise zur Replikation
+****Hinweise zur Replikation****
 
 Der Autor hat diese Arbeit im Bemühen verfasst, im Sinn eines guten wissenschaftli-chen Stils eine reibungslose Replikation des in dieser Arbeit gezeigten Vorgehens zu gewährleisten.
 

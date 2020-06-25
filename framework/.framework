@@ -95,7 +95,11 @@
 														<serializableOrderedMap>
 															<entry>
 																<String>fragment</String>
-																<String>&lt;box>&lt;box-stw>Box-Titel&lt;/box-stw>&lt;box-inhalt>Box-Inhalt&lt;/box-inhalt>&lt;/box></String>
+																<String>&lt;box spalten="2">&lt;box-stw>Box-Titel&lt;/box-stw>&lt;box-inhalt>Box-Inhalt&lt;/box-inhalt>&lt;/box></String>
+															</entry>
+															<entry>
+																<String>insertPosition</String>
+																<String>Inside as first child</String>
 															</entry>
 														</serializableOrderedMap>
 													</field>
@@ -111,7 +115,7 @@
 														<serializableOrderedMap>
 															<entry>
 																<String>fragment</String>
-																<String>&lt;box>&lt;box-stw>Box-Titel&lt;/box-stw>&lt;box-inhalt>Box-Inhalt&lt;/box-inhalt>&lt;/box></String>
+																<String>&lt;box spalten="2">&lt;box-stw>Box-Titel&lt;/box-stw>&lt;box-inhalt>Box-Inhalt&lt;/box-inhalt>&lt;/box></String>
 															</entry>
 															<entry>
 																<String>insertLocation</String>
@@ -119,7 +123,7 @@
 															</entry>
 															<entry>
 																<String>insertPosition</String>
-																<String>After</String>
+																<String>Inside as first child</String>
 															</entry>
 														</serializableOrderedMap>
 													</field>

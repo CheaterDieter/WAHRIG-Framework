@@ -1,8 +1,9 @@
+/* LESS-Stylesheet zur Darstellung der Strukturansicht
+ * Entwickelt von David Heger */
 
 
 /* LESS-Elemente */
 .grundschrift() {
-    /* display : block; */
     .schriftgroesse();
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -34,27 +35,62 @@
 }
 
 @namespace oxy "http://www.oxygenxml.com/extensions/author";
-@media oxygen-high-contrast-black, oxygen-dark-theme{
-    oxy|doctype {
-        color:#D0E2F4 !important;
-    }
-}
 
 oxy|comment {
-    display:none !important;
+    display:none !important; /* Kommentare nicht darstellen */
 }
 
 /* Elemente */
-maju[majuskel="A"]:after {
-    content:"\A""A";
-    font-weight: bold;
-    font-size: 40px;
+
+bedeutung {
+    .kasten();
 }
-/* Weitere Majuskeln manuell ergänzen */
+bedeutung[typ="pollist"] {
+    counter-reset: zaehler; /* Zählervariable zurücksetzen */
+}
+bedeutung:before {
+    content: " BEDEUTUNGSVIELFALT: " attr(typ) " ";
+    font-size:8pt;
+    color: #8a8a8a;  
+}
+bedeutung > * {
+    background-color: #e7baff;
+}
+
+bedeutung > * > * {
+    background-color: #ffbaba;
+}
+
+bedeutung > * > * > * {
+    background-color: #fcffba;
+}
+bedeutung > polysem {
+    .kasten();
+}
+bedeutung[typ="pollist"] > polysem:before {
+    counter-increment: zaehler;
+    content:counter(zaehler) ".";
+    font-weight: bold;
+        margin-left:0;
+}
+bedeutung[typ="spz"] > polysem {
+}
+bedeutung[typ="spz"] > polysem:before {
+    counter-increment: zaehler;
+    content:"";
+    font-weight: bold;
+    margin-left:0;
+}
 
 box {
     background-color: #E0E0FF; 
-display:block;
+    display:block;
+    max-width:1000px;
+    padding: 1em;
+    border: 1px solid white;
+    .kasten();
+    margin-left:1em;
+    margin-right:13em;
 }
 box:before {
         content:"\A"; /* Zeilenumbruch einfügen */
@@ -70,19 +106,19 @@ box-meta {
 
 box-stw {
     .grundschrift();
-
+    font-weight: bold;
 }
-
-
+box-stw:before {
+    content:"Box-ID: (ID: " attr(id) ") "oxy_textfield(width, 4em, edit, "@id") " ";
+    .erklaertext();
+}
 box-stw:after {
         content:"\A"; /* Zeilenumbruch einfügen */
 }
 
-
 br:after {
     content:"\A";
 }
-
 
 bsp-hinw {
     .grundschrift()
@@ -94,7 +130,6 @@ bsp-hinw:after {
     content:")";
 }
 
-
 bsp-wort {
 background-color: #fdebd0;
     .kasten();
@@ -103,97 +138,75 @@ bsp-wort:before {
     content:"BEISPIEL-WORT: ";
     .erklaertext();
 }
-
 bsp-wort:after {
     content:" ";
 }
-
-
-          
+         
 eintrag {
-display:block;
-  max-width:1000px;
-  margin: 0px;
+    display:block;
+    max-width:1000px;
+    margin: 0px;
     padding: 1em;
-    border: 1px solid white;
-
-    
+    border: 1px solid white; 
 }
-
-
 eintrag:before {
     content:"";
 }
-
 eintrag:after {
-
+}
+eintrag > * {
+    background-color: #bad8ff;
 }
 
 genus[genustyp="f"] {
     content:"f.: "; .kursiv();
     background-color: #fdebd0;
 }
-
 genus[genustyp="m"] {
     content:"m.: "; .kursiv();
     background-color: #fdebd0;
 }
-
 genus[genustyp="n"] {
     content:"n.: "; .kursiv();
     background-color: #fdebd0;
 }
-
 genus[genustyp="pl"] {
     content:"Pl.: "; .kursiv();
     background-color: #fdebd0;
 }
 
 idm[typ="eigenständig"]{
-
 }
-
 idm {
     content: oxy_combobox(width, 5em, edit, "@typ", editable, false, values, "eigenständig, angehängt") oxy_textfield(width, 4em, edit, "@idref") " ";
    .grundschrift(); 
-
 }
 idm:before {
     content:"VERWEIS AUF ANDERES LEXEM: (ID: " attr(idref) ") ";
     .erklaertext();
 }
 
-
 info[typ="true"] {
-
     content: " ⓘ " oxy_checkbox(
-edit, "@typ",
-values, "true",
-uncheckedValues, "false",
-labels, "Info Icon zeigen (gewählt: ja)");
-        .kasten();
+    edit, "@typ",
+    values, "true",
+    uncheckedValues, "false",
+    labels, "Info Icon zeigen (gewählt: ja)");
+    .kasten();
     font-weight: bold;
     color: blue;
 }
-info[typ="false"] {
 
+info[typ="false"] {
     content: " ⓘ " oxy_checkbox(
-edit, "@typ",
-values, "true",
-uncheckedValues, "false",
-labels, "Info Icon zeigen (gewählt: nein)");
-        .kasten();
+    edit, "@typ",
+    values, "true",
+    uncheckedValues, "false",
+    labels, "Info Icon zeigen (gewählt: nein)");
+    .kasten();
     font-weight: bold;
     color: grey;  
 }
-
-
-
-
-
-
-
-
 
 lexem[typ="aus-erw"] { display: none }
 lexem[typ="aus-nachs"] { display: none }
@@ -204,40 +217,19 @@ lexem[typ="klamm-erw"]:after { content:")" }
 lexem[typ="klamm-vors"] { .grundschrift() }
 lexem[typ="klamm-vors"]:before { content:"(" }
 lexem[typ="klamm-vors"]:after { content:")" }
-
 lexem[typ="slash-wort"] { font-size: 0 } /* Inhalt durch "/" ersetzen */
 lexem[typ="slash-wort"]:after { content:"/"; .schriftgroesse();}
 
-maju {
+maju[majuskel="A"]:after {
+    content:"\A""A";
+    font-weight: bold;
+    font-size: 40px;
 }
+/* Weitere Majuskeln manuell ergänzen */
 
 pollist {
     counter-reset: zaehler; /* Zählervariable zurücksetzen */
 }
-
-bedeutung > polysem {
-    .kasten();
-}
-
-bedeutung[typ="pollist"] > polysem:before {
-    counter-increment: zaehler;
-    content:counter(zaehler) ".";
-    font-weight: bold;
-        margin-left:0;
-}
-
-bedeutung[typ="spz"] > polysem {
-    
-}
-
-bedeutung[typ="spz"] > polysem:before {
-    counter-increment: zaehler;
-    content:"";
-    font-weight: bold;
-        margin-left:0;
-}
-
-
 
 s-a {
     content:" ";
@@ -257,7 +249,6 @@ sachg {
 sachg:after {
     content:"";
 }
-
 sachg:before {
     content:"SACHGRUPPE ";
     .erklaertext();
@@ -267,6 +258,7 @@ spz:before {
     content:" ";
     margin-left:2em;
 }
+
 stil:before {
   content: "STIL: ";
 
@@ -276,19 +268,14 @@ stil {
     font-style: italic;
 
 }
-
 stil:after {
-content:"";
+    content:"";
 }
-
-
 
 stw {
     content: oxy_textfield(width, 4em, edit, "@id") " ";
     .kasten();
 }
-
-
 stw:before {
   content: " LEXEM (ID: " attr(id) ") ";
     .erklaertext();
@@ -298,7 +285,6 @@ subpolysem {
     .kasten();
     margin-top: 10px;
 }
-
 subpolysem:before {
     content: "SPEZIFISCHE VERWENDUNGSWEISE: ";
     .erklaertext();
@@ -307,16 +293,11 @@ subpolysem:before {
 subsachg { /* Kommt  nicht vor  */
     font-style: italic;
 }
-
 subsachg:after {
     content:": ";
 }
 
-
-
 syn {
-
-
 }
 
 syn:before {
@@ -328,52 +309,32 @@ syno {
     .grundschrift();
     display:block;
 }
-
-bedeutung {
-    .kasten();
+syno:not([konvertiert]):before {
+    background-color: #ff0000; 
+    color: #FFFFFF;
+    font-weight: bold;
+    display:block;
+    max-width:1000px;
+    content:"HINWEIS: Die geöffnete Datei ist noch nicht ins vereinfachte Format konvertiert worden! Nehmen Sie keine Änderungen an dieser Datei vor! Um die Datei mit dem Framework zu bearbeiten oder in der Strukturansicht zu betrachten, wenden Sie zunächst das Transformation-Szenario an. Klicken Sie hierfür auf das 'Play'-Symbol in der Leiste oben oder drücken Sie Strg + Umschalt + T. So wird eine neue Datei mit vereinfachtem XML-Schema erzeugt, die problemlos bearbeitet werden kann.";
 }
-
-/* Elemente für aktualisierte XML */
-bedeutung[typ="pollist"] {
-counter-reset: zaehler; /* Zählervariable zurücksetzen */
-}
-
-
-bedeutung:before {
-  content: " BEDEUTUNGSVIELFALT: " attr(typ) " ";
-    font-size:8pt;
-    color: #8a8a8a;  
+syno[konvertiert]:before {
+    background-color: #007400; 
+    color: #FFFFFF;
+    font-weight: bold;
+    display:block;
+    max-width:1000px;
+    content:"Die geöffnete Datei liegt im vereinfachten Format vor. Sie können diese problemlos mit dem Framework bearbeiten. Nennen Sie diese Datei ggf. um oder speichern Sie diese unter neuem Namen, um ein Überschreiben der Änderungen in dieser Datei bei Ausführen des Transformationsszenarios auf der Ausgangsdatei zu verhindern.";
 }
 
 wortart:before{
     content: " WORTART (TYP: " attr(typ) ") ";
     .erklaertext()
 }
-
 wortart {
     .kasten();
     content: oxy_combobox(width, 10em, edit, "@typ", editable, false, values, "n, rest", labels, "Substantiv, kein Substantiv");
 }
-
-eintrag > * {
-    background-color: #bad8ff;
-}
-
 wortart > * {
     background-color: #bbffba;
     content: oxy_combobox(width, 5em, edit, "@typ", editable, false, values, "spz, pollist", labels, "monosem, polysem");
-
 }
-
-bedeutung > * {
-    background-color: #e7baff;
-}
-
-bedeutung > * > * {
-    background-color: #ffbaba;
-}
-
-bedeutung > * > * > * {
-    background-color: #fcffba;
-}
-
